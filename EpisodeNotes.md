@@ -1,4 +1,4 @@
-## Ep 8
+## Episode 8: Chain Go Brr
 
 In this episode, GoN discusses chain halts in the Cosmos, decentralization, and addresses the question of validators "dumping". With [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), [@the-frey](https://mobile.twitter.com/frey_needlecast) and [@rhinostake](https://mobile.twitter.com/rhinostake)
 
@@ -11,7 +11,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [What is Byzantine Fault Tolerance?](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
 - [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf)
 
-## Ep 9
+## Episode 9: Akash Special
 
 In this episode, GoN discusses welcomes the founder of Akash, the fantastic [@gregosuri](https://twitter.com/gregosuri)! The group dips into classical music, validator decentralization, upgrades as well as the past, present and future of [@akashnet\_](https://twitter.com/akashnet_). With [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), [@the-frey](https://mobile.twitter.com/frey_needlecast) and [@rhinostake](https://mobile.twitter.com/rhinostake)
 
@@ -25,7 +25,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Brontide on Spotify](https://open.spotify.com/artist/5hSOUfTghPgtg7WFM0GPEh?si=CCGzYQWRQAaCoiOuyf4wKA)
 - [Schultzie's Symphony Experience](https://www.orsymphony.org/concerts-tickets/2122/dvoraks-new-world-symphony/?performanceId=4895)
 
-## Ep 10
+## Episode 10: Devs Plz Fix
 
 In this episode, GoN welcomes Assaf Morami [@assafmo](https://twitter.com/assafmo) from Secret Network! The group discusses Juno Prop 21, the history and benefits of SCRT, validator decentralization, upgrades and the future of [@SecretNetwork](https://twitter.com/SecretNetwork). With [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), [@the-frey](https://mobile.twitter.com/frey_needlecast) and [@rhinostake](https://mobile.twitter.com/rhinostake)
 
@@ -36,7 +36,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Secret Network](https://scrt.network/)
 - [More about Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions)
 
-## Ep 11
+## Episode 11: DAO DAO DAO
 
 In this episode, the GoN crew in joined by Multichain Maximalist [Jake Hartnell](https://twitter.com/JakeHartnell)! We discuss some of the infrastructure behind the Stargaze Marketplace launch, the fall of UST/Terra, and the opportunities again for the Cosmos. With [@lavenderfive](https://twitter.com/lavender_five), [@the-frey](https://mobile.twitter.com/frey_needlecast), [@jabbey](https://twitter.com/JoeAbbey) and [@rhinostake](https://mobile.twitter.com/rhinostake)
 
@@ -62,7 +62,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
      - [What are Interchain Accounts?](https://blog.cosmos.network/faqs-about-interchain-accounts-b404f1bb9ca2)
      - [SpaceMerch on Twitter](https://twitter.com/SpaceMerchDAO)
 
-## Ep 12
+## Episode 12: DELETE THIS PODCAST
 
 In this episode, the GoN crew in joined by [Jorge](https://twitter.com/jhernandezb_) from Stargaze! We deep-dive into the Stargaze infrastructure and discuss on-chain data, RPC performance, caching, pinned contracts, and the challenges of indexing. Oh, and we find a way to halt some Cosmos networks, but totally fast-forward through that part.
 
@@ -82,7 +82,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos.
 
-## Ep 13
+## Episode 13: Consensus vs. Competence
 
 In this episode, the GoN crew welcomes Daniel Hwang [@danhwang88](https://twitter.com/danhwang88), head of protocols at [Stakefish](https://twitter.com/stakefish)! The team discusses the Juno Prop 20 accidental address fuck-up and deep-dives into discussion on just how that happened, who is actually responsible, and weighs models going forward to ensure it doesn't happen again.
 
@@ -105,7 +105,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos!
 
-## Ep 14
+## Episode 14: FREE OSMO CLICK HERE
 
 In this episode, the GoN team answers viewer questions, discusses the Osmosis chain halt and exploit, and recaps the current status and what's coming for HOWL.
 
@@ -126,7 +126,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos!
 
-## Ep 15
+## Episode 15: Querying SubQuery
 
 In this episode, the GoN team welcomes [James Bayly](https://twitter.com/JamesABayly) from [SubQuery](https://twitter.com/SubQueryNetwork/)! We talk about the importance and use of fast indexing / querying on blockchains, and how the SubQuery team entered the Cosmos ecosystem. The team recaps the Osmosis halt, Juno uni-3 upgrades and coming functionality (like Interchain Accounts), and James and [usurper](https://mobile.twitter.com/rhinostake) recap their Consensus 2022 trips and findings.
 
