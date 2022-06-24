@@ -1,3 +1,5 @@
+# GoN Episode Notes
+
 ## Episode 8: Chain Go Brr
 
 In this episode, GoN discusses chain halts in the Cosmos, decentralization, and addresses the question of validators "dumping". With [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), [@the-frey](https://mobile.twitter.com/frey_needlecast) and [@rhinostake](https://mobile.twitter.com/rhinostake)
@@ -144,3 +146,22 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Understanding Comics by Scott McCloud - Amazon](https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X)
 
 Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across projects in the Cosmos!
+
+## Episode 16: Painkillers for Bot Stuff
+
+In this episode, the GoN team welcomes [Sunny Aggarwal](https://twitter.com/sunnya97) from [Osmosis](https://osmosis.zone/)! The GoN crew and Sunny discuss recent Governance groups and topics within the Cosmos, the recent Osmosis chain halt and release defect, how it was fixed and practices moving forward. Sunny also reviews the future of Osmosis.
+
+Hosted by [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), and [@rhinostake](https://mobile.twitter.com/rhinostake).
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
+
+**Show Links**
+
+- [About Sunny](https://github.com/cosmos/chain-registry)
+- Governance Groups Mentioned:
+     - [Validator Commons](https://validatorcommons.org/)
+     - [Cosmos Validators League](https://github.com/Thyb0rg/Cosmos-Validators-League/blob/main/README.md)
+- [Interchain Standards](https://github.com/cosmos/ibc)
+- [Sunny's Talk at OsmoCon 2022](https://www.youtube.com/watch?v=CqES5QslMbQ)
+
+Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
