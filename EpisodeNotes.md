@@ -165,3 +165,18 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Sunny's Talk at OsmoCon 2022](https://www.youtube.com/watch?v=CqES5QslMbQ)
 
 Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
+
+## Episode 17: Tenderlovin'
+
+In this episode, the GoN team reviews all the awesomeness that is coming with [Tenderduty 2](https://github.com/blockpane/tenderduty) from Todd G. at [blockpane](https://twitter.com/blockpane)! Rebuilt, revamped and expanded in functionality, this already essential tool for Cosmos validators just got a whole lot better.
+
+Hosted by [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@lavenderfive](https://twitter.com/lavender_five)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
+
+**Show Links**
+
+- [Stake Now with Blockpane](https://blockpane.com/)
+- [Tenderduty 2](https://github.com/blockpane/tenderduty)
+
+Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
