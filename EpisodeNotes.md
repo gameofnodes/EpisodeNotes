@@ -180,3 +180,27 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Tenderduty 2](https://github.com/blockpane/tenderduty)
 
 Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
+
+## Episode 18: The Free Shit Problem
+
+In this episode, the GoN team welcomes [gh0st](https://mobile.twitter.com/gh0stdotexe) from [WhisperNode](https://mobile.twitter.com/WhisperNode) and [Thyborg](https://mobile.twitter.com/thyborg_) to talk Validator Power, the Nakamoto Coefficient, Governance and the challenges of validator power distribution across the Cosmos!
+
+Hosted by [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
+
+**Show Links**
+
+- [gh0st on Twitter](https://mobile.twitter.com/gh0stdotexe)
+- [Thyborg on Twitter](https://mobile.twitter.com/thyborg_)
+- [ECO Stake on Twitter](https://mobile.twitter.com/eco_stake)
+- [The Cosmos Directory](https://github.com/eco-stake/cosmos-directory)
+- [Validator Commons](https://validators.community/)
+- More about the Nakomoto Coefficient: [1](https://news.earn.com/quantifying-decentralization-e39db233c28e) [2](https://crosstower.com/resources/education/nakamoto-coefficient/) [3](https://www.minima.global/post/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization)
+- Sample Rankings Discussed:
+     - [Kava - Nakomoto Coefficient: 2](https://www.mintscan.io/kava/validators)
+     - [Evmos - Nakomoto Coefficient: 5](https://www.mintscan.io/evmos/validators)
+     - [AssetMantle - Nakomoto Coefficient: 4](https://www.mintscan.io/asset-mantle/validators)
+- What is a Sybil Attack? [1](https://en.wikipedia.org/wiki/Sybil_attack) [2](https://www.imperva.com/learn/application-security/sybil-attack/) [3](https://academy.binance.com/en/articles/sybil-attacks-explained)
+
+Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
