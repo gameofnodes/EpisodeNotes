@@ -204,3 +204,20 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - What is a Sybil Attack? [1](https://en.wikipedia.org/wiki/Sybil_attack) [2](https://www.imperva.com/learn/application-security/sybil-attack/) [3](https://academy.binance.com/en/articles/sybil-attacks-explained)
 
 Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
+
+## Episode 19: Whack-a-Mole
+
+In this episode, the GoN team welcomes [Highlander](https://twitter.com/HighlanderNodes) and [qf3l3k](https://twitter.com/qf3l3k_tech) from [ChainTools](https://twitter.com/chaintoolsT) with friend of the show [Multichain Maximalist, Jake Hartnell](https://twitter.com/JakeHartnell)! We talk about the joining of forces at ChainTools, governance challenges, voting, deposits and a lot more. We also catch up on the recently launched testnet at [Sei Network](https://twitter.com/SeiNetwork) and the [Kujira Launch](https://twitter.com/TeamKujira).
+
+Hosted by [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (sometimes) address listener questions every week!
+
+**Show Links**
+
+- [Highlander on Twitter](https://mobile.twitter.com/gh0stdotexe)
+- [qf3l3k on Twitter](https://mobile.twitter.com/thyborg_)
+- [Jake Hartnell on Twitter](https://mobile.twitter.com/eco_stake)
+- [How to submit a proposal & how to deposit via the cli](https://hub.cosmos.network/main/delegators/delegator-guide-cli.html#participating-in-governance)
+- [Great thread by @CryptoRegent on the challenges of voting power centralization](https://twitter.com/CryptoRegent/status/1547330501987508229?s=20&t=uv9wMfWBX03kfaGLJgqNvg)
+- [Secret Network now supports wrapping sJUNO, sSTARS, sGrav and sLUNA](https://wrap.scrt.network/)
