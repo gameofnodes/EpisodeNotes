@@ -6,7 +6,7 @@ In this episode, GoN discusses chain halts in the Cosmos, decentralization, and 
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Ralph Merkle on Wikipedia](https://en.wikipedia.org/wiki/Ralph_Merkle)
 - [Math study shows consirpacies 'prone to unravelling'](https://www.bbc.com/news/science-environment-35411684)
@@ -19,7 +19,7 @@ In this episode, GoN discusses welcomes the founder of Akash, the fantastic [@gr
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Get started on Akash right now!](https://docs.akash.network/)
 - [Gitopia, on the Cosmos](https://gitopia.com/)
@@ -33,7 +33,7 @@ In this episode, GoN welcomes Assaf Morami [@assafmo](https://twitter.com/assafm
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Secret Network](https://scrt.network/)
 - [More about Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions)
@@ -44,25 +44,25 @@ In this episode, the GoN crew in joined by Multichain Maximalist [Jake Hartnell]
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [NYT Article on Do Kwon](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDm8SiPgYCIiG_EPKarske9YpxT3eQMJHOfokXu1q0uhUIlZ3Rg-js96In9EGPCIz74KvW2d8l7T8YYcFyx64JG-oNLU4g7SloxONNDX3XfbYgSIiJgh69sE1fEWt3CMC2qeUG-ZqiNR4iqsrAs0uR2hRdzDK66ezc2h2PtyGaxnW7wgkCaoOCXyIw4nqu_9Xex5SCFnGUHp4_W0-jdtdM9kSN6__RAUyLIu82f5CTzw1c_r6QsE5VIPWlL51sLHSqRzqyMC-xfs-Fa48r6oXEhsjXsDjRBaIO51XzDGP&smid=url-share)
 - More about Tendermint Node Pruning and Indexing
-     - [Node Pruning](https://docs.tendermint.com/v0.35/nodes/running-in-production.html)
-     - [Node Indexing](https://docs.tendermint.com/v0.35/app-dev/indexing-transactions.html)
+  - [Node Pruning](https://docs.tendermint.com/v0.35/nodes/running-in-production.html)
+  - [Node Indexing](https://docs.tendermint.com/v0.35/app-dev/indexing-transactions.html)
 - [Juno Dao Dao](https://daodao.zone/)
 - Search and Indexing Tools Discussed
-     - [Terra Subgraph](https://github.com/blockcoders/terra-subgraph)
-     - [Figment Bringing TheGraph to Cosmos](https://www.figment.io/resources/the-graph-and-cosmos)
-     - [TheGraph](https://thegraph.com/en/)
+  - [Terra Subgraph](https://github.com/blockcoders/terra-subgraph)
+  - [Figment Bringing TheGraph to Cosmos](https://www.figment.io/resources/the-graph-and-cosmos)
+  - [TheGraph](https://thegraph.com/en/)
 - Building an Infrastructure DAO
-     - [Secret Infrastructure Details example](https://forum.scrt.network/t/secret-infrastructure/4176)
+  - [Secret Infrastructure Details example](https://forum.scrt.network/t/secret-infrastructure/4176)
 - Cosmos Tooling & Terra Discussion
-     - [Telescope](https://github.com/osmosis-labs/telescope)
-     - [Awesome Cosmos](https://github.com/cosmos/awesome)
+  - [Telescope](https://github.com/osmosis-labs/telescope)
+  - [Awesome Cosmos](https://github.com/cosmos/awesome)
 - From Q&A
-     - [What are Interchain Accounts?](https://blog.cosmos.network/faqs-about-interchain-accounts-b404f1bb9ca2)
-     - [SpaceMerch on Twitter](https://twitter.com/SpaceMerchDAO)
+  - [What are Interchain Accounts?](https://blog.cosmos.network/faqs-about-interchain-accounts-b404f1bb9ca2)
+  - [SpaceMerch on Twitter](https://twitter.com/SpaceMerchDAO)
 
 ## Episode 12: DELETE THIS PODCAST
 
@@ -72,14 +72,14 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Terra NFT Projects](https://terranft.io/)
 - [Hyperion's generative art platform on Stargaze](https://app.stargaze.zone/marketplace/stars18a0pvw326fydfdat5tzyf4t8lhz0v6fyfaujpeg07fwqkygcxejsnp5fac)
 - All about Interchain Accounts:
-     - [Background from Ignite](https://blog.cosmos.network/interchain-accounts-take-cosmos-interoperability-to-the-next-level-39c9a8aad4ad)
-     - [More from CoinDesk](https://www.coindesk.com/tech/2022/04/14/cosmos-gains-interchain-accounts-as-upgrade-kicks-in/)
-     - [Interchain Accounts Demo](https://github.com/cosmos/interchain-accounts-demo)
+  - [Background from Ignite](https://blog.cosmos.network/interchain-accounts-take-cosmos-interoperability-to-the-next-level-39c9a8aad4ad)
+  - [More from CoinDesk](https://www.coindesk.com/tech/2022/04/14/cosmos-gains-interchain-accounts-as-upgrade-kicks-in/)
+  - [Interchain Accounts Demo](https://github.com/cosmos/interchain-accounts-demo)
 - [Seth Green losing ownership (and rights to) his Bored Apes](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show)
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos.
@@ -92,7 +92,7 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (try to) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [All about Drop Bears (that Null thinks is total bullshit)](https://australian.museum/learn/animals/mammals/drop-bear/)
 - [Typo Moves $36M in Seized JUNO Tokens to Wrong Wallet - CoinDesk](https://www.coindesk.com/tech/2022/05/05/typo-moves-36m-in-seized-juno-tokens-to-wrong-wallet/)
@@ -115,16 +115,16 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (try to) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Juno Prop 25 for SubDAOs](https://www.mintscan.io/juno/proposals/25)
 - [Juno Prop 26 for Sponsorship](https://www.mintscan.io/juno/proposals/26)
 - [Cosmoverse 2022](https://twitter.com/CosmoverseHQ)
 - [Look Around You - Wikipedia](https://en.wikipedia.org/wiki/Look_Around_You)
 - [Look Around You - YouTube](https://www.youtube.com/watch?v=t4CRCJUmWsM&list=PLsMUa0l1PW9Mnbzwy9gjaN0JlBuupQPQr)
-     - [Maths!](https://vimeo.com/77451201)
+  - [Maths!](https://vimeo.com/77451201)
 - [Dukes of Hazard - Wikipedia](https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard)
-     - [Just a good 'ole boys](https://www.youtube.com/watch?v=67gig0f4HLo)
+  - [Just a good 'ole boys](https://www.youtube.com/watch?v=67gig0f4HLo)
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos!
 
@@ -136,7 +136,7 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (almost) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [The Cosmos Chain Registry](https://github.com/cosmos/chain-registry)
 - [What are Interchain Accounts?](https://blog.cosmos.network/interchain-accounts-take-cosmos-interoperability-to-the-next-level-39c9a8aad4ad)
@@ -155,12 +155,12 @@ Hosted by [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://t
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [About Sunny](https://github.com/cosmos/chain-registry)
 - Governance Groups Mentioned:
-     - [Validator Commons](https://validatorcommons.org/)
-     - [Cosmos Validators League](https://github.com/Thyb0rg/Cosmos-Validators-League/blob/main/README.md)
+  - [Validator Commons](https://validatorcommons.org/)
+  - [Cosmos Validators League](https://github.com/Thyb0rg/Cosmos-Validators-League/blob/main/README.md)
 - [Interchain Standards](https://github.com/cosmos/ibc)
 - [Sunny's Talk at OsmoCon 2022](https://www.youtube.com/watch?v=CqES5QslMbQ)
 
@@ -174,7 +174,7 @@ Hosted by [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Stake Now with Blockpane](https://blockpane.com/)
 - [Tenderduty 2](https://github.com/blockpane/tenderduty)
@@ -189,7 +189,7 @@ Hosted by [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (usually) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [gh0st on Twitter](https://mobile.twitter.com/gh0stdotexe)
 - [Thyborg on Twitter](https://mobile.twitter.com/thyborg_)
@@ -198,9 +198,9 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [Validator Commons](https://validators.community/)
 - More about the Nakomoto Coefficient: [1](https://news.earn.com/quantifying-decentralization-e39db233c28e) [2](https://crosstower.com/resources/education/nakamoto-coefficient/) [3](https://www.minima.global/post/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization)
 - Sample Rankings Discussed:
-     - [Kava - Nakomoto Coefficient: 2](https://www.mintscan.io/kava/validators)
-     - [Evmos - Nakomoto Coefficient: 5](https://www.mintscan.io/evmos/validators)
-     - [AssetMantle - Nakomoto Coefficient: 4](https://www.mintscan.io/asset-mantle/validators)
+  - [Kava - Nakomoto Coefficient: 2](https://www.mintscan.io/kava/validators)
+  - [Evmos - Nakomoto Coefficient: 5](https://www.mintscan.io/evmos/validators)
+  - [AssetMantle - Nakomoto Coefficient: 4](https://www.mintscan.io/asset-mantle/validators)
 - What is a Sybil Attack? [1](https://en.wikipedia.org/wiki/Sybil_attack) [2](https://www.imperva.com/learn/application-security/sybil-attack/) [3](https://academy.binance.com/en/articles/sybil-attacks-explained)
 
 Help support [Game of Nodes](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across your favorite projects in the Cosmos!
@@ -213,7 +213,7 @@ Hosted by [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (sometimes) address listener questions every week!
 
-**Show Links**
+### Show Links
 
 - [Highlander on Twitter](https://mobile.twitter.com/gh0stdotexe)
 - [qf3l3k on Twitter](https://mobile.twitter.com/thyborg_)
@@ -221,3 +221,22 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - [How to submit a proposal & how to deposit via the cli](https://hub.cosmos.network/main/delegators/delegator-guide-cli.html#participating-in-governance)
 - [Great thread by @CryptoRegent on the challenges of voting power centralization](https://twitter.com/CryptoRegent/status/1547330501987508229?s=20&t=uv9wMfWBX03kfaGLJgqNvg)
 - [Secret Network now supports wrapping sJUNO, sSTARS, sGrav and sLUNA](https://wrap.scrt.network/)
+
+## Episode 20: You Only Sign Twice
+
+In episode 20 (!), the GoN team catches up on the Cosmos drama of the week, including the unfortunate double-sign slash of Evmos validator [@StakeLikeMo](https://twitter.com/StakeLikeMo), the realities and risks in validators operations, and the underlying question of "ownership" when something goes wrong. We also catch up on new testnets in the Cosmos, validator set increases, faster block times and the fashion statement of mullets.
+
+With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (almost rarely!) address listener questions every week!
+
+### Show Links
+
+- [@StakeLikeMo](https://twitter.com/StakeLikeMo)
+  - [Tale of the Double Sign](https://twitter.com/digitaladapt/status/1549498788380753920?cxt=HHwWgICq1Ye89oArAAAA)
+- Tendermint Remote Signing
+  - [Horcrux](https://github.com/strangelove-ventures/horcrux)
+  - [tmkms](https://github.com/iqlusioninc/tmkms)
+- Testnets Discussed
+  - [Sei](https://www.seinetwork.io/)
+  - [Defund](https://www.defund.app/)
