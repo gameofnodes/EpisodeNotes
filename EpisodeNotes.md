@@ -240,3 +240,5 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 - Testnets Discussed
   - [Sei](https://www.seinetwork.io/)
   - [Defund](https://www.defund.app/)
+
+Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos!
