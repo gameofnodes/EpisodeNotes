@@ -242,3 +242,21 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
   - [Defund](https://www.defund.app/)
 
 Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavender.Five across popular chains in the Cosmos!
+
+## Episode 21: Roundabouts
+
+In episode 21, the GoN team welcomes guest [Callum](https://twitter.com/callum_and1), co-founder of [@DA0_DA0](https://twitter.com/DA0_DA0) and [Howl](https://twitter.com/howl_social)!  After a lengthy roundabout discussion, the team catches up on the state of the Cosmos, $JUNO being listed on [Kraken](https://www.kraken.com/) and the launch of the [Howl](https://twitter.com/howl_social) testnet!
+
+With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake).
+
+### Show Links
+
+- [Crazy Roundabouts](https://www.google.com/search?q=crazy+roundabouts&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOl_6G2KP5AhV7FFkFHY0WCxAQ_AUoAXoECAIQAw&biw=1567&bih=1216&dpr=2)
+- [The Swindon Magic Roundabout](https://en.wikipedia.org/wiki/Magic_Roundabout_(Swindon))
+- [Callum on Twitter](https://twitter.com/callum_and1)
+- [Howl](https://twitter.com/howl_social) - on chain micro-blogging built on Juno
+
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (most assuredly) address listener questions every week!
+
+Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
