@@ -260,3 +260,32 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (most assuredly) address listener questions every week!
 
 Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
+
+## Episode 22: Maximum DPS
+
+The _full_ GoN crew discusses the crazy amount of drama both within and outside of the Cosmos, including the Juno halt, Osmosis almost-halt, draining of the [Nomad](https://www.nomad.xyz/) bridge, and hack/drain of funds of [Slope Wallet](https://slope.finance/) users on Solana. Then the crew is shocked by the-frey's love of Master and Commander.
+
+With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@jabbey](https://twitter.com/JoeAbbey), [Lavender.Five](https://www.lavenderfive.com/), and [@rhinostake](https://mobile.twitter.com/rhinostake).
+
+### Show Links
+
+- [Thread from dimi on the Juno halt](https://twitter.com/dimiandre/status/1552870594684899328)
+- Nomad hack coverage
+  - [The Verge](https://www.theverge.com/2022/8/2/23288785/nomad-bridge-200-million-chaotic-hack-smart-contract-cryptocurrency)
+  - [CoinDesk](https://www.coindesk.com/business/2022/08/03/hackers-send-back-9m-to-nomad-bridge-after-190m-exploit/)
+  - [Explaining the Hack with @0xfoobar](https://twitter.com/0xfoobar/status/1554269047176548353)
+  - [Nomad audit report](https://github.com/nomad-xyz/docs/blob/1ff0c55dba2a842c811468c57793ff9a6542ef0f/docs/public/Nomad-Audit.pdf)
+- Slope wallet coverage
+  - [Mashable](https://mashable.com/article/solana-slope-hack-things-to-learn)
+  - [@MoonRankNFT finds mnemonics in plain text](https://twitter.com/MoonRankNFT/status/1554911833617641472)
+- #GoNReads?
+  - [Shock Doctrine: The Rise of Disaster Capitalism - Klein](https://smile.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999)
+  - [Skunk Works: A Personal Memoir of My Years of Lockheed - Rich, Janos](https://www.amazon.com/Skunk-Works-Ben-R-Rich/dp/0751515035)
+  - [Debt: The First 5000 Years - Graeber](https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192)
+- Master and Commander: The Far Side of the World
+  - [A solid "Average" on IMDB](https://www.imdb.com/title/tt0311113/)
+  - [Here's a clip](https://www.youtube.com/watch?v=9kjnzX8t_e8)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We _master and command_ address listener questions every week!
+
+Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
