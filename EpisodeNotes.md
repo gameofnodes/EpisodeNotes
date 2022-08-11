@@ -290,7 +290,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [y
 
 Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
 
-## Episode 23: Beyond Thunderdom
+## Episode 23: Beyond Thunderdome
 
 The GoN crew welcomes [@AuditsMoultrie](https://twitter.com/AuditsMoultrie) as well as long-time friends of the show [gh0st](https://twitter.com/gh0stdotexe) and [Brendan](https://twitter.com/SCRTAgent000) from [WhisperNode](https://twitter.com/WhisperNode)!  In another high-drama week in the Cosmos, the group discusses Sybil, economics, past/current/future stable coins, Echelon, and more. The Big Mac Index™ (BMI) is defined.
 
