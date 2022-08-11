@@ -289,3 +289,32 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We _master and command_ address listener questions every week!
 
 Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
+
+## Episode 23: Beyond Thunderdom
+
+The GoN crew welcomes [@AuditsMoultrie](https://twitter.com/AuditsMoultrie) as well as long-time friends of the show [gh0st](https://twitter.com/gh0stdotexe) and [Brendan](https://twitter.com/SCRTAgent000) from [WhisperNode](https://twitter.com/WhisperNode)!  In another high-drama week in the Cosmos, the group discusses Sybil, economics, past/current/future stable coins, Echelon, and more. The Big Mac Index™ (BMI) is defined.
+
+With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake).
+
+### Show Links
+
+- [Molutrie Audits - moultrieaudits.com](https://www.moultrieaudits.com/)
+- [WhisperNode - whispernode.com](https://www.whispernode.com/)
+- [Pronouncing imperator - Merriam-Webster](https://www.merriam-webster.com/dictionary/imperator)
+- More about Echelon
+  - [Who is behind Echelon - Medium](https://medium.com/@bilaltanoli360/who-is-behind-echelon-651954e9e03b)
+  - Hilarious ECH fan videos:
+    - [Video 1 - Twitter](https://twitter.com/Echelon_Joker/status/1557707571254988800)
+    - [Video 2 - Twitter](https://twitter.com/Echelon_Joker/status/1557080706337079298)
+- Tornado Cash
+  - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash - US Treasury Announcement](https://home.treasury.gov/news/press-releases/jy0916)
+  - [Crypto-Mixing Service Tornado Cash Blacklisted by US Treasury - CoinDesk](https://www.coindesk.com/policy/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-us-treasury/)
+  - [US blacklisting of Tornado Cash sparks outcry from cryptocurrency industry - Ars](https://arstechnica.com/tech-policy/2022/08/us-bans-transactions-on-crypto-system-that-some-used-for-money-laundering/)
+  - [What was banned - Twitter](https://twitter.com/TornadoCash/status/1557048526986780677?cxt=HHwWioC90dfY35srAAAA)
+
+- Movie Homework
+  - [Miami Connection - IMDB](https://www.imdb.com/title/tt0092549/?ref_=nv_sr_srsg_0)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We forget to answer listener questions every week!
+
+Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
