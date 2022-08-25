@@ -245,17 +245,16 @@ Help support Game of Nodes! Delegate to Needlecast, Kingnodes, RHINO, and Lavend
 
 ## Episode 21: Roundabouts
 
-In episode 21, the GoN team welcomes guest [Callum](https://twitter.com/callum_and1), co-founder of [@DA0_DA0](https://twitter.com/DA0_DA0) and [Howl](https://twitter.com/howl_social)!  After a lengthy roundabout discussion, the team catches up on the state of the Cosmos, $JUNO being listed on [Kraken](https://www.kraken.com/) and the launch of the [Howl](https://twitter.com/howl_social) testnet!
+In episode 21, the GoN team welcomes guest [Callum](https://twitter.com/callum_and1), co-founder of [@DA0_DA0](https://twitter.com/DA0_DA0) and [Howl](https://twitter.com/howl_social)! After a lengthy roundabout discussion, the team catches up on the state of the Cosmos, $JUNO being listed on [Kraken](https://www.kraken.com/) and the launch of the [Howl](https://twitter.com/howl_social) testnet!
 
 With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake).
 
 ### Show Links
 
 - [Crazy Roundabouts](https://www.google.com/search?q=crazy+roundabouts&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOl_6G2KP5AhV7FFkFHY0WCxAQ_AUoAXoECAIQAw&biw=1567&bih=1216&dpr=2)
-- [The Swindon Magic Roundabout](https://en.wikipedia.org/wiki/Magic_Roundabout_(Swindon))
+- [The Swindon Magic Roundabout](<https://en.wikipedia.org/wiki/Magic_Roundabout_(Swindon)>)
 - [Callum on Twitter](https://twitter.com/callum_and1)
 - [Howl](https://twitter.com/howl_social) - on chain micro-blogging built on Juno
-
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We (most assuredly) address listener questions every week!
 
@@ -292,7 +291,7 @@ Also help support Game of Nodes and other great independent validators in the Co
 
 ## Episode 23: Beyond Thunderdome
 
-The GoN crew welcomes [@AuditsMoultrie](https://twitter.com/AuditsMoultrie) as well as long-time friends of the show [gh0st](https://twitter.com/gh0stdotexe) and [Brendan](https://twitter.com/SCRTAgent000) from [WhisperNode](https://twitter.com/WhisperNode)!  In another high-drama week in the Cosmos, the group discusses Sybil, economics, past/current/future stable coins, Echelon, and more. The Big Mac Index™ (BMI) is defined.
+The GoN crew welcomes [@AuditsMoultrie](https://twitter.com/AuditsMoultrie) as well as long-time friends of the show [gh0st](https://twitter.com/gh0stdotexe) and [Brendan](https://twitter.com/SCRTAgent000) from [WhisperNode](https://twitter.com/WhisperNode)! In another high-drama week in the Cosmos, the group discusses Sybil, economics, past/current/future stable coins, Echelon, and more. The Big Mac Index™ (BMI) is defined.
 
 With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake).
 
@@ -307,6 +306,7 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
     - [Video 1 - Twitter](https://twitter.com/Echelon_Joker/status/1557707571254988800)
     - [Video 2 - Twitter](https://twitter.com/Echelon_Joker/status/1557080706337079298)
 - Tornado Cash
+
   - [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash - US Treasury Announcement](https://home.treasury.gov/news/press-releases/jy0916)
   - [Crypto-Mixing Service Tornado Cash Blacklisted by US Treasury - CoinDesk](https://www.coindesk.com/policy/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-us-treasury/)
   - [US blacklisting of Tornado Cash sparks outcry from cryptocurrency industry - Ars](https://arstechnica.com/tech-policy/2022/08/us-bans-transactions-on-crypto-system-that-some-used-for-money-laundering/)
@@ -316,5 +316,27 @@ With [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https
   - [Miami Connection - IMDB](https://www.imdb.com/title/tt0092549/?ref_=nv_sr_srsg_0)
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We forget to answer listener questions every week!
+
+Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
+
+## Episode 25: The Burnout Cast
+
+The GoN crew is exhausted. Let's talk about it. [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake) discuss project funding, VCs, Cosmos exhaustion, growing project teams, upcoming testnets, [@Polkachu](https://twitter.com/polka_chu) and somehow relates all this back to 00's British TV comedies.
+
+### Show Links
+
+- Juno Reading
+  - [More about Hack Juno - Medium](https://medium.com/hack-juno-dao/hack-juno-280670cd71b2)
+  - [And about Juno Growth Fund - Commonwealth](https://commonwealth.im/juno/discussion/6661-juno-ecosystem-growth-sustainability-fund-jegsf-subdao)
+- Random TV Stuff to Watch
+  - [Monkey Dust - IMDB](https://www.imdb.com/title/tt0386224/?ref_=nv_sr_srsg_0)
+  - [Peep Show - IMDB](https://www.imdb.com/title/tt0387764/?ref_=nv_sr_srsg_0)
+  - [The Mighty Boosh - IMDB](https://www.imdb.com/title/tt0416394/?ref_=nv_sr_srsg_0)
+  - [Toast of London - IMDB](https://www.imdb.com/title/tt2432604/?ref_=nv_sr_srsg_0)
+  - [Nathan Barley - IMDB](https://www.imdb.com/title/tt0426654/?ref_=nv_sr_srsg_0)
+- Movie Homework (continued!)
+  - [Miami Connection - IMDB](https://www.imdb.com/title/tt0092549/?ref_=nv_sr_srsg_0)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We promise to answer listener questions every week!
 
 Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
