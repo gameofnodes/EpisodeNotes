@@ -340,11 +340,3 @@ The GoN crew is exhausted. Let's talk about it. [@the-frey](https://mobile.twitt
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We promise to answer listener questions every week!
 
 Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
-
-## Episode 26: I'm No Super Hans
-
-[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [Lavender.Five](https://www.lavenderfive.com/) welcome friend-of-the-show [Rarma](https://mobile.twitter.com/rarma_)!
-
-Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We have, on occasion, answered listener questions every week!
-
-Also help support Game of Nodes and other great independent validators in the Cosmos. Delegate to [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) across popular chains in the Cosmos!
