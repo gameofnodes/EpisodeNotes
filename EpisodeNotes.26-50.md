@@ -29,3 +29,21 @@ Democratizing access to MEV (Miner Extractable Value) opportunities on the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We skip over listener questions every week!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 28: The OG Frey
+
+The GoN crew welcomes the god father of [CosmWasm](https://twitter.com/CosmWasm), Ethan Frey! Join [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), and [@rhinostake](https://mobile.twitter.com/rhinostake) as we dive deep into Ethan's background, the history of CosmWasm and what's next in wasm and the launch of WYND.
+
+### Show Links
+
+- About CosmWasm
+  - [cosmwasm.com](https://cosmwasm.com/)
+  - [CosmWasm Docs](https://docs.cosmwasm.com/docs/1.0/)
+  - [CosmWasm - github.com](https://github.com/CosmWasm/cosmwasm)
+- About WYND
+  - [www.wynddao.com](https://www.wynddao.com/)
+  - [WYND DAO Documentation](https://docs.wynddao.com/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will eventually answer user questions every week!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
