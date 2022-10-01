@@ -64,3 +64,11 @@ The GoN crew welcomes [Larry Engineer (larry0x)](https://twitter.com/larry0x)! J
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will definitely schedule time to answer user questions every week!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 30: The FOMO Cast
+
+[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake) catch up on the state of the Cosmos, the quick death of Juno testnet `uni-4`, degen tokenomics, degen horcrux, and our new segment Tombstone of the Week.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will definitely schedule time to answer user questions every week!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
