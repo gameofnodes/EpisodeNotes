@@ -72,3 +72,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will definitely schedule time to answer user questions every week!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 31: Prime Stake
+
+The GoN crew welcomes Udit from [StakeEasy](https://mobile.twitter.com/stakeeasy)! Join [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five) and [@rhinostake](https://mobile.twitter.com/rhinostake) as we learn more about this liquid staking protocol on [Juno](https://mobile.twitter.com/JunoNetwork).
+
+### Show Links
+
+- About StakeEasy
+  - [stakeeasy.finance](https://stakeeasy.finance/)
+  - [StakeEasy guides - medium](https://stakeeasy.medium.com/)
+  - [StakeEasy for Juno - stakeeasy.finance](https://juno.stakeeasy.finance/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will definitely eaaaaaase into user questions every week!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
