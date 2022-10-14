@@ -87,3 +87,19 @@ The GoN crew welcomes Udit from [StakeEasy](https://mobile.twitter.com/stakeeasy
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We will definitely eaaaaaase into user questions every week!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 32: Come on, Feel the Nois
+
+GoN welcomes the excellent [Simon Warta](@simon_warta), founder of [Nois Network](https://nois.network/) and [Confio](https://twitter.com/confio_tech)!
+
+Simon discusses the challenges with randomness in a blockchain context, why it's important, and how Nois will be the home for the truly random in the Cosmos. Join [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@rhinostake](https://mobile.twitter.com/rhinostake) and friend of the show [@blockpane](https://twitter.com/blockpane/) as we dive deep.
+
+### Show Links
+
+- Nois Network
+  - [nois.network](https://nois.network/)
+  - [nois whitepaper - nois.network](https://whitepaper.nois.network/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We randomly choose user questions every week!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
