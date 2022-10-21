@@ -103,3 +103,11 @@ Simon discusses the challenges with randomness in a blockchain context, why it's
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We randomly choose user questions every week!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 33: Streaming the Group Chat
+
+Listen to [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake) get demonetized in record setting time as we discuss this weeks drama in the Cosmos.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). This week someone asked a question and WE ANSWERED IT! Then someone else asked a question and we ended the show. Take your chances by submitting your questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
