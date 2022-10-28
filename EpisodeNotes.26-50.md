@@ -118,6 +118,7 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 
 ### Show Links
 
+- [2022 The Crypto Story - Bloomberg](https://www.bloomberg.com/features/2022-the-crypto-story/)
 - [Dall-E - openai.com](https://openai.com/dall-e-2/)
 - [Fountain by Marcel Duchamp - tate.org.uk](https://www.tate.org.uk/art/artworks/duchamp-fountain-t07573)
 - [The uni-5 compounder - mintscan](https://testnet.mintscan.io/juno-testnet/account/juno1phvddcjw2ng6ma6e46xk6k645wa52d6acgt67q)
