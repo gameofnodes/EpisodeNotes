@@ -111,3 +111,20 @@ Listen to [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). This week someone asked a question and WE ANSWERED IT! Then someone else asked a question and we ended the show. Take your chances by submitting your questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 34: Doggy Doublesign Drama
+
+[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), and [@rhinostake](https://mobile.twitter.com/rhinostake) get together to drop 9's and talk about this week's drama per second in the Cosmos.
+
+### Show Links
+
+- [Dall-E - openai.com](https://openai.com/dall-e-2/)
+- [Fountain by Marcel Duchamp - tate.org.uk](https://www.tate.org.uk/art/artworks/duchamp-fountain-t07573)
+- [The uni-5 compounder - mintscan](https://testnet.mintscan.io/juno-testnet/account/juno1phvddcjw2ng6ma6e46xk6k645wa52d6acgt67q)
+- [Tap v Faucet - wikipedia](<https://en.wikipedia.org/wiki/Tap_(valve)>)
+- [Applicative functor - wikipedia](https://en.wikipedia.org/wiki/Applicative_functor)
+- [Does the Nakamoto Coefficient equate to decentralization? - bybit](https://learn.bybit.com/blockchain/nakamoto-coefficient-decentralization/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We tap into your questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
