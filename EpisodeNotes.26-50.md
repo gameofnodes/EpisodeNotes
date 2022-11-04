@@ -129,3 +129,38 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We tap into your questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy.
+
+## Episode 35: Sorry, not sorry
+
+RIP #35
+
+## Episode 36: This Is The Thirty Sixth Episode Of A Podcast Called Game Of Nodes
+
+GoN welcomes [Tendermint Timmy](https://twitter.com/TendermintTimmy)! [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), and [@rhinostake](https://mobile.twitter.com/rhinostake) catch up with Timmy to discuss his entry into the Cosmos, the start and progress of Spark IBC, and what's coming soon: Interchain Info.
+
+### Show Links
+
+Timmy Links:
+
+- [Tendermint Timmy - twitter](https://twitter.com/TendermintTimmy)
+  - [The tweet from CZ about the ATOM - twitter](https://twitter.com/cz_binance/status/1122424740180742144)
+- [Spark IBC - sparkibc.zone](https://sparkibc.zone/)
+- [Spark IBC - twitter](https://twitter.com/sparkibc)
+- [Interchain Info - twitter](https://twitter.com/interchaininfo)
+
+Other stuff:
+
+- [About ABCI - github](https://github.com/tendermint/tendermint/tree/main/abci)
+- [Hetzner drama - twitter](https://twitter.com/solblaze_org/status/1587818136694591491)
+- [More Hetzner drama - theblock.co](https://www.theblock.co/post/182283/1000-solana-validators-go-offline-as-hetzner-blocks-server-access)
+- [The Grudge - imdb](https://www.imdb.com/title/tt0391198/)
+- [The Ring - imdb](https://www.imdb.com/title/tt0298130/)
+- [The Grudge vs. The Ring - halloween-year-round.com](https://halloween-year-round.com/2020/01/08/the-ring-vs-the-grudge-which-is-better/)
+
+Burn of the week:
+
+- [Null Burns a BitCanna Buddheads](https://www.mintscan.io/stargaze/txs/1BABD437CE18B21011D71F466481B0FAD9EAC4BDA1D39A520623D1FD5E578788)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
