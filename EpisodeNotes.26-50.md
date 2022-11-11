@@ -164,3 +164,18 @@ Burn of the week:
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 37: F in the chat for Episode 35
+
+[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [@lavenderfive](https://twitter.com/lavender_five), and [@rhinostake](https://mobile.twitter.com/rhinostake) watch the end of the (crypto)world in real-time as we discuss the FTX.com implosion, bad actors, bad decisions, bad coins, bad movies, bad finance, bad roosters. Just bad.
+
+### Show Links
+
+- [CZ's tweet on dropping FTT - twitter](https://twitter.com/cz_binance/status/1589283421704290306)
+- [Binance walks on FTX acquisition - coindesk.com](https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/)
+- [Chappelle's Show - Tron Carter's "Law & Order" - youtube](https://www.youtube.com/watch?v=HeOVbeh2yr0)
+- [The Simpsons - Enron's ride of broken dreams - youtube](https://www.youtube.com/watch?v=DgRLlqEvOT8)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
