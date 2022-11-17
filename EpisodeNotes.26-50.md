@@ -179,3 +179,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 38: Mesh Security Giga Chads
+
+The GoN crew welcomes gigabrans [Ethan Frey (@RealInterchain)](https://twitter.com/RealInterchain), [Jake Hartnell (@JakeHartnell)](https://twitter.com/JakeHartnell) and [Sunny Aggarwal (@sunnya97)](https://twitter.com/sunnya97)! This episode is devoted to the vision, benefits, challenges and implementation of Mesh Security. [@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes) and [@rhinostake](https://mobile.twitter.com/rhinostake) try to keep up.
+
+### Show Links
+
+- [Mesh Security Diagram - github](https://github.com/CosmWasm/mesh-security)
+- [Replicated vs. Mesh Security blog - informal](https://informal.systems/2022/11/04/replicated-vs-mesh-security/)
+- [Blow the Whistle by The Cosmonauts - soundcloud](https://soundcloud.com/cosmonautsalbum/blow-the-whistle)
+- [Sunny's Superfluid Staking Talk at Cosmoverse 2021](https://www.youtube.com/watch?v=qlnjQ6V4LwM)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
