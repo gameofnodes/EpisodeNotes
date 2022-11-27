@@ -194,3 +194,16 @@ The GoN crew welcomes gigabrans [Ethan Frey (@RealInterchain)](https://twitter.c
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 39: Good Times, Bear Times
+
+[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes) and [Lavender.Five](https://www.lavenderfive.com/) catch up with [Reece Williams (@Reecepbcups\_)](https://twitter.com/reecepbcups_)on this week's Cosmos DPS, Joe™, more Joe. So much fuckin' Joe.
+
+### Show Links
+
+- [Just Joe - just.joe](https://justjoe.app/)
+- [Joe NFT Collection - stargaze.app](https://www.stargaze.zone/marketplace/stars1s8ydlqlacquvaxum0wegns99p3lyq0e9g32l5sl8svrqx2s08haqmpujmr)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
