@@ -207,3 +207,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 40: Can't Stop, Don't Want To
+
+[@the-frey](https://mobile.twitter.com/frey_needlecast), [@kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) discuss the recent "Prop Drama" on Juno and elsewhere, coin-shuffling in the Cosmos, new projects, old projects and the color yellow.
+
+### Show Links
+
+- [Juno Prop #59 - Fund only open source software - mintscan](https://www.mintscan.io/juno/proposals/59)
+- [Juno Prop #60 - Loop Finance - Final Tranche Payment - mintscan](https://www.mintscan.io/juno/proposals/60)
+- [ASX Chairman Apologizes After Writing Off $165 Million Blockchain Project - forbes](https://www.forbes.com/sites/michaeldelcastillo/2022/11/16/seminal-blockchain-project--goes-down-the-drain-chairman-apologizes/?sh=16bb89f917d3)
+- [Stargaze Prop #57 - Levana funds Reallocation - commonwealth](https://commonwealth.im/stargaze/discussion/7816-proposal-discussion-prop-57-funds-reallocation)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
