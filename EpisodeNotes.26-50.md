@@ -222,3 +222,20 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 41: Goin' Broke by Saving Money
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) discuss the rising amount of unbondings in the Cosmos, whales, validator apathy, Australian birds (the ones with beaks), [Loop Finance](https://twitter.com/loop_markets), MEV updates with [Skip Protocol](https://twitter.com/SkipProtocol) and the latest Hetzner drama.
+
+### Show Links
+
+- [The Cassowary - britannica](https://www.britannica.com/animal/cassowary)
+- [Converting Juno CORE-1 into a DAO - commonwealth](https://commonwealth.im/juno/discussion/8371-convert-core1-to-an-official-subdao)
+- [Loop Finance Grant Proposal - ipfs](https://bafybeie5squ5hndbx5pqpmqm3kzg46bsegqlsawukzfxexby5c37loi5xy.ipfs.nftstorage.link/)
+- [Promoting Healthy MEV within Juno - commonwealth](https://commonwealth.im/juno/discussion/8099-promote-healthy-mev-within-the-juno-community-and-set-ecosystem-limits-on-harmful-mev)
+- [Sunny on Osmosis handing MEV capture in protocol - twitter](https://twitter.com/sunnya97/status/1598802625331617793)
+- [Mad Max: Fury Road filming locations - imdb](https://www.imdb.com/title/tt1392190/locations)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
