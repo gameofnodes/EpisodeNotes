@@ -239,3 +239,19 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 42: GoN, But Not Forgotten
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) review this week's drama, including Cosmos Prop 89, YouTubers, The FTX hearings, horrible US Government responses, the ineffective tombstone and more!
+
+### Show Links
+
+- [Cosmos Prop 89 - mintscan](https://www.mintscan.io/cosmos/proposals/89)
+- [Ryan Sean Adams on the Senator Warren bill - twitter](https://twitter.com/RyanSAdams/status/1603052999282147328?s=33)
+- [FTX Bankruptcy CEO John Ray getting the call about FTX - youtube](https://www.youtube.com/watch?v=8B1p1zPFo7w)
+- [Gus Polinski? Polka King of the Midwest? - youtube](https://youtu.be/1_l1VtpSnKI?t=34)
+- [Debt: The First 5,000 Years - amazon](https://www.amazon.co.uk/Debt-First-5-000-Years/dp/1612191290)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
