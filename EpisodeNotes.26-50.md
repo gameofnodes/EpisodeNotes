@@ -251,6 +251,8 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [FTX Bankruptcy CEO John Ray getting the call about FTX - youtube](https://www.youtube.com/watch?v=8B1p1zPFo7w)
 - [Gus Polinski? Polka King of the Midwest? - youtube](https://youtu.be/1_l1VtpSnKI?t=34)
 - [Debt: The First 5,000 Years - amazon](https://www.amazon.co.uk/Debt-First-5-000-Years/dp/1612191290)
+- [Mistakes Were Made (But Not by Me) - amazon](https://www.amazon.com/Mistakes-Were-Made-But-Third/dp/B08YS5L4RJ)
+- [Bowling Alone - amazon](https://smile.amazon.com/dp/B003DYGOO6?ref_=cm_sw_r_cp_ud_dp_G6TWK048YQN4YZ9HR4PX)
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
