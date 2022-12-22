@@ -257,3 +257,22 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Ask some questions on Twitter or YouTube!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 43: They Relevance Is Hard To Find
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) catch up on the demise of Sifchain, PoS carbon credits, "interchain" name service drama, the Bro-n-Bro score, governance misconceptions and who would win fights in the Cosmos.
+
+### Show Links
+
+- [Sifchain is dead - sifchain.network](https://sifchain.network/)
+- [Can Blockchain Networks Fix Carbon Offsets? - coindesk](https://www.coindesk.com/layer2/miningweek/2022/03/27/crypto-carbon-can-blockchain-networks-fix-carbon-offsets/)
+- [Last Week Tonight with John Oliver on Carbon Offsets - hbo](https://www.hbo.com/last-week-tonight-with-john-oliver/season-9/21-august-21-2022-carbon-offsets)
+- [Interchain Name Service - icns.xyz](https://app.icns.xyz/)
+- [Stargaze Name Servce - stargaze](https://app.stargaze.zone/names)
+- [Decentralized Identifiers (DIDs) - w3.org](https://www.w3.org/TR/did-core/)
+- [Bro&Bro Score - bronbro.io](https://score.bronbro.io/)
+- [The best podcast ever - bigballsblockchain.com](http://bigballsblockchain.com/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We answer listener questions every week posted on Twitter or YouTube! Or email us at [answermydamnquestion@bigballsblockchain.com](mailto:gon@bigballsblockchain.com)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
