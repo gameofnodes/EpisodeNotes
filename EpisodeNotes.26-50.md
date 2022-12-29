@@ -276,3 +276,17 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). We answer listener questions every week posted on Twitter or YouTube! Or email us at [answermydamnquestion@bigballsblockchain.com](mailto:gon@bigballsblockchain.com)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 44: 2022 Awards Show WAGMI Special
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) wrap-up the year with the First Annual GoN Awards Show! Catch the incredible winners for Best Shitposter, Best Tombstone, Shittiest Chain, Best Drama, Best NFT Collection and more!
+
+### Show Links
+
+- [Drill Official "Mr. Ten Years" - amazon](https://www.amazon.com/Dril-Official-Years-Anniversary-Collection/dp/1724941682/)
+- [Barn burner - marriam-webster](https://www.merriam-webster.com/dictionary/barn%20burner)
+- [Richard Dawkins - wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
