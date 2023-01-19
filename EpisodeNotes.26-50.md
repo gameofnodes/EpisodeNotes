@@ -308,3 +308,21 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 47: Answering for Their Crimes From a Malibu Beach House
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) find 90 consecutive minutes between Kujira gov props to talk Juno gov props (fuck!), a better term for SubDAO, Juno project funding, and the return of GoN Movie and TV Hour™.
+
+### Show Links
+
+- [The Kujira Gov Flood - twitter](https://mobile.twitter.com/polkachu_intern/status/1615409899948871680)
+- [Juno Prop 87: Hack Turkey - mintscan](https://www.mintscan.io/juno/proposals/87)
+- [Juno Prop 89: CzarDAO - mintscan](https://www.mintscan.io/juno/proposals/89)
+- [Juno Prop 93: AmigoSound - mintscan](https://www.mintscan.io/juno/proposals/93)
+- [Juno Growth Fund - daodao](https://daodao.zone/dao/juno1xz54y0ktew0dcm00f9vjw0p7x29pa4j5p9rwq6zerkytugzg27qs4shxnt#proposals)
+- [Eminem Buys a Car - youtube](https://www.youtube.com/watch?v=yjs-7B0_gRo)
+- [The California Zephyr - amtrak](https://www.amtrak.com/routes/california-zephyr-train.html)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
