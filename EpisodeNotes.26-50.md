@@ -326,3 +326,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA). Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 48: Sick Burns Night
+
+Come inside the sauna this week to hear [the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) catch up on sybils acting as white label validators, rewrite the tax laws of the Australian Tax Office, argue the benefits & drawbacks of automation, and break down the best and worst additions to the Stargate franchise.
+
+### Show Links
+
+- [Stargate - imdb](https://www.imdb.com/title/tt0111282/)
+- [SG-1 - imdb](https://www.imdb.com/title/tt0118480/)
+- [Matt Damon and Tom Cruise's Safety Guy - youtube](https://youtu.be/ERzbkt5r5Gg?t=96)
+- [Crypto at the ATO - ato.gov.au](https://www.ato.gov.au/individuals/investments-and-assets/crypto-asset-investments/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
