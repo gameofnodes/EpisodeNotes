@@ -336,6 +336,7 @@ Come inside the sauna this week to hear [the-frey](https://mobile.twitter.com/fr
 - [Stargate - imdb](https://www.imdb.com/title/tt0111282/)
 - [SG-1 - imdb](https://www.imdb.com/title/tt0118480/)
 - [Matt Damon and Tom Cruise's Safety Guy - youtube](https://youtu.be/ERzbkt5r5Gg?t=96)
+- [Jeff Geerling - youtube](https://www.youtube.com/@JeffGeerling)
 - [Crypto at the ATO - ato.gov.au](https://www.ato.gov.au/individuals/investments-and-assets/crypto-asset-investments/)
 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
