@@ -342,3 +342,21 @@ Come inside the sauna this week to hear [the-frey](https://mobile.twitter.com/fr
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 49: Media DAODAODAO with Omniflix
+
+Friend of the show [Sistla Abhishek](https://twitter.com/svabhishek) from [Omniflix](https://twitter.com/OmniFlixNetwork) joins [Corporate Frey](https://twitter.com/frey_needlecast), [Corporate Null](https://twitter.com/kingnodes), [Corporate Shultzie](https://twitter.com/dylanschultzie) and [RHINO, Inc.](https://twitter.com/rhinostake) to discuss the plan for the upcoming Interchain Media DAO!
+
+When we finally let him speak. Before that we catch up on the Confio bombshell, Mars launch, Mars launch tombstone and more on the sybil/whitelabel BS
+
+### Show Links
+
+- [Confio announcement - twitter](https://twitter.com/confio_tech/status/1620780203818754048)
+- [But Juno is safe - twitter](https://twitter.com/misangmadrid/status/1620794215201636352)
+- [Terra grant proposal - twitter](https://twitter.com/terra_agora/status/1620858692286423040)
+- [Blockpane's security video - youtube](https://www.youtube.com/watch?v=5MKV7EDJiS4)
+- [Mars Protocol - marsprotocol.io](https://marsprotocol.io/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
