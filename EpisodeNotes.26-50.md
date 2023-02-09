@@ -368,7 +368,6 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 ### Show Links
 
 - [Fake honey - insider](https://www.insider.com/fake-honey-problems-how-it-works-2020-9)
-- [Fake syrup - realsimple](https://www.realsimple.com/food-recipes/recipe-collections-favorites/popular-ingredients/maple-syrup)
 - [About crocs - wikipedia](https://en.wikipedia.org/wiki/Saltwater_crocodile)
 - [Frey's degen meme - imgur](https://i.imgur.com/mnl920f.png)
 - [daodao.zone](https://daodao.zone)
