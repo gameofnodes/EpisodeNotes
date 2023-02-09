@@ -360,3 +360,23 @@ When we finally let him speak. Before that we catch up on the Confio bombshell, 
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [gon@bigballsblockchain.com](mailto:gon@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 50:
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [kingnodes](https://twitter.com/kingnodes), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) welcome [@0xekez](https://twitter.com/0xekez) and [@noahsaso](https://twitter.com/noahsaso) from [DAO DAO](https://twitter.com/DA0_DA0)! Grab a helping of the "Devil's Lettuce" and join this conversation as we discuss fake honey, fake syrup, real crocodiles and the plan to DAO the entire universe.
+
+### Show Links
+
+- [Fake honey - insider](https://www.insider.com/fake-honey-problems-how-it-works-2020-9)
+- [Fake syrup - realsimple](https://www.realsimple.com/food-recipes/recipe-collections-favorites/popular-ingredients/maple-syrup)
+- [About crocs - wikipedia](https://en.wikipedia.org/wiki/Saltwater_crocodile)
+- [Frey's degen meme - imgur](https://i.imgur.com/mnl920f.png)
+- [daodao.zone](https://daodao.zone)
+- [Howl DAO](https://daodao.zone/dao/juno1vxqh60ar9jdq6d6k25n9e8gkurpkpe0qefqypydmur4u3nhlxg7sse4gkm)
+- [Command and Control by Schlosser - amazon](https://www.amazon.com/Command-and-Control-audiobook/dp/B00ELOTL4C/ref=sr_1_1?keywords=command+and+control+eric+schlosser&qid=1675893999&sprefix=command+and+c%2Caps%2C81&sr=8-1)
+- [Dunbar number - bbc](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships)
+- [Alliance security - github](https://github.com/terra-money/alliance)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [daosfoever@bigballsblockchain.com](mailto:daosforever@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
