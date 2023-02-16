@@ -14,6 +14,6 @@
 - [Fiver on Teritori WIP - twitter](https://twitter.com/TeritoriNetwork/status/1622646301405085696)
 - [Chapelle Show PopCopy - youtube](https://www.youtube.com/watch?v=zR7LOtMix9w)
 
-Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [daosfoever@bigballsblockchain.com](mailto:daosforever@bigballsblockchain.com).
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [governmentmaxis@bigballsblockchain.com](mailto:governmentmaxisr@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
