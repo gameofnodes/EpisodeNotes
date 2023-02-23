@@ -17,3 +17,17 @@
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [governmentmaxis@bigballsblockchain.com](mailto:governmentmaxisr@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 52: Anniversary Special (?)
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) welcome the incredible [Assaf Morami](https://twitter.com/assafmo) from Secret Network! Repeat the name Robert Paulson, horde those shitcoins and listen in as we discuss Cosmos funding props, the challenges of Cosmos funding props and more about Cosmos funding props. Oh, and the upcoming Secret upgrade.
+
+### Show Links
+
+- [Cosmos Hub Prop 103 - mintscan](https://www.mintscan.io/cosmos/proposals/103)
+- [Cosmos Hub Prop 104 - mintscan](https://www.mintscan.io/cosmos/proposals/104)
+- [Secret Upgrade v1.7.0 - github](https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.7.0-rc.2)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [ilovegovprops@bigballsblockchain.com](mailto:ilovegovpropsr@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
