@@ -31,3 +31,13 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [ilovegovprops@bigballsblockchain.com](mailto:ilovegovpropsr@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 53: Game of Nerds Do Denver
+
+Yinz are in for a treat as [the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/) and [RHINO](https://rhinostake.com/) are finally back in The Chair™ to catch up on eth.denver, the death of Cerberus, and the Joe Chain/Notional bullshit. Then [@kingnodes](https://twitter.com/kingnodes) stops in after being gone for 3 weeks and rugs the show.
+
+- [Joe Chain Death Rattle - github](https://github.com/joe-chain/joe)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [ilovegovprops@bigballsblockchain.com](mailto:ilovegovpropsr@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
