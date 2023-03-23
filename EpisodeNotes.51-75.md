@@ -41,3 +41,15 @@ Yinz are in for a treat as [the-frey](https://mobile.twitter.com/frey_needlecast
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [ilovegovprops@bigballsblockchain.com](mailto:ilovegovpropsr@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 54: Dan's A Fantastic Man
+
+Coming back strong, [the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), [Kingnodes](https://www.kingnodes.com/) and [RHINO](https://rhinostake.com/) welcome [Dan Bryan](https://twitter.com/DefiantDanb) and [Kyle Moser](https://twitter.com/kmose88) from [Defiant Labs](https://twitter.com/DefiantLabs)! We catch up on the state of the Cosmos, the upcoming launch of [Sycamore.tax](https://app.sycamore.tax/), MEV, and the slow exit of Figment and other OG Cosmos validators.
+
+- [Best Hot Dog Cart in NYC - yelp](https://www.yelp.com/biz/billys-hot-dog-cart-new-york)
+- [Defiant Labs - defiantlabs.net](https://defiantlabs.net/)
+- [Sycamore.tax](https://app.sycamore.tax/)
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [hooveslipsandassholes@bigballsblockchain.com](mailto:hooveslipsandassholes@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
