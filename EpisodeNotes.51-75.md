@@ -53,3 +53,15 @@ Coming back strong, [the-frey](https://mobile.twitter.com/frey_needlecast), [Lav
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [hooveslipsandassholes@bigballsblockchain.com](mailto:hooveslipsandassholes@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 55: Honey Laundering
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Kingnodes](https://www.kingnodes.com/) and [RHINO](https://rhinostake.com/) catch up on Null's travels, the ranking of U.S. fast-food establishments, the best & worst cities visited, and if time, a _little bit_ of Cosmos drama. Pour one out for Nodist on the five-peat tombstone.
+
+- [Blue Bottle Coffee - bluebottlecoffee.com](https://bluebottlecoffee.com/us/eng)
+
+If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop one in the mail.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com).
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
