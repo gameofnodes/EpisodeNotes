@@ -65,3 +65,21 @@ If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigba
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)! Pose topics or questions to Twitter, or email us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com).
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 56: The Frnz We Made Along The Way
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), [Kingnodes](https://www.kingnodes.com/) and [RHINO](https://rhinostake.com/) catch up on the Nois launch, the upcoming Noble chain launch of native USDC, and investigate the ability to tombstone a Horcrux remote signer node in real time (spoiler: 💀💀💀💀💀).
+
+- Nois
+  - [Nois.network](https://nois.network/)
+  - [Randomness - randomness.nois.network](https://randomness.nois.network/)
+- Media
+  - [Economics Explained - youtube](https://www.youtube.com/@EconomicsExplained)
+  - [Road to Perdition - imdb](https://www.imdb.com/title/tt0257044)
+  - [The English - imdb](https://www.imdb.com/title/tt11771270/)
+
+If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop some in the mail.  Yes, this a real email.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today. DO IT.
