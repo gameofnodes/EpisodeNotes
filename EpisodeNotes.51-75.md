@@ -83,3 +83,17 @@ If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigba
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today. DO IT.
+
+
+## Episode 57: Hang in There!
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), [Kingnodes](https://www.kingnodes.com/) and [RHINO](https://rhinostake.com/) discuss bad coffee, good alcohol, Cosmos TED talks, and most importantly when to YAWP and when to shill.
+
+- [After the Filter - afterthefilter.com](https://www.afterthefilter.com/)
+- [usurper's Prop 16 Slides - google](https://docs.google.com/presentation/d/1x2RRwwgWQZaT0N2Tq3SSIqgq7ABUnDv7gakwlbXXe0U/edit?usp=sharing)
+
+If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop some in the mail.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today. DO IT.
