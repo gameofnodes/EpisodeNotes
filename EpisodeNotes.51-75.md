@@ -97,3 +97,18 @@ If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigba
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today. DO IT.
+
+## Episode 58: Eat, Sleep, Yawp, Repeat
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), and [Kingnodes](https://www.kingnodes.com/) wonder why Dad's taken so long to come back with those cigarettes, and discover in real time what Babylon actually is, thanks to a guest appearance by Rarma.
+
+- Everything Everything tunes: My Computer [Raw Data Feel, 2022](https://youtu.be/tpjltiR3N94) [Spring, Sun, Winter, Dread](https://youtu.be/u3FO46D1dqs)
+- [Staring into the Abyss as a Core Life Skill](https://www.benkuhn.net/abyss/)
+- [Babylon](https://www.babylonchain.io/)
+- [Juno Evo](https://medium.com/@JunoNetwork/jun%C3%B8-evolution-a-blueprint-for-the-future-2c1ecc62afcb)
+
+If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop some in the mail.
+
+Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
