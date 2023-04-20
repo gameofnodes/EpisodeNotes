@@ -104,7 +104,7 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - Everything Everything tunes
   - [My Computer, Raw Data Feel (2022) - youtube](https://youtu.be/tpjltiR3N94)
   - [Spring, Sun, Winter, Dread, A Fever Dream (2017) - youtube](https://youtu.be/u3FO46D1dqs)
-- [Staring into the Abyss as a Core Life Skill](https://www.benkuhn.net/abyss/)
+- [Staring into the Abyss as a Core Life Skill - benkuhn.net](https://www.benkuhn.net/abyss/)
 - [Babylon - babylongchain.io](https://www.babylonchain.io/)
 - [Juno Evo - medium](https://medium.com/@JunoNetwork/jun%C3%B8-evolution-a-blueprint-for-the-future-2c1ecc62afcb)
 
