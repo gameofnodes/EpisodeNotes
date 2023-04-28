@@ -113,3 +113,20 @@ If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigba
 Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and subscribe to us on [youtube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA)!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 59: Null Looks Different Today
+
+[the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), and [RHINO](https://rhinostake.com/) welcome [Spoorthi](https://twitter.com/spoo_bar)! We catch up on [The Cosmos Ladies](https://twitter.com/TheCosmosLadies), current projects, women in web3, working for free and more.
+
+- [AftertheFilter mint stats - twitter](https://twitter.com/rhinostake/status/1646959044307853319)
+- [Libra: Is it Really about the Money? - ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441707)
+- Retro phones:
+  - [Nokia 3310 - wikipedia](https://en.wikipedia.org/wiki/Nokia_3310)
+  - [Nokia 8110 - wikipedia](https://en.wikipedia.org/wiki/Nokia_8110)
+- [thecosmosladies.dev](https://www.thecosmosladies.dev/)
+- [flcl robot - duckduck](https://duckduckgo.com/?q=flcl+robot&va=b&t=hc&hps=1&iax=images&ia=images)
+- [Hidden Figures - imdb](https://www.imdb.com/title/tt4846340/?ref_=ext_shr_lnk)
+
+If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop some in the mail.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
