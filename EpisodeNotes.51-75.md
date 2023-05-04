@@ -130,3 +130,11 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 If you would like some GoN stickers, reach out to us at [iwantadamnsticker@bigballsblockchain.com](mailto:iwantadamnsticker@bigballsblockchain.com) and we'll drop some in the mail.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 60: In a Mirror, Darkly
+
+In these trying times, the crew has been forced to outsource Game of Nodes to cheap labor. Please welcome special guest hosts [Bendy](https://twitter.com/The_BendyOne), [Rarma](https://twitter.com/Rarma_), [Phunky 🧸🍀👑](https://twitter.com/ThePhunky1), and [DAO Maximalist ⚵🧪✨☯🏴](https://twitter.com/JakeHartnell)!
+
+Shoved to the cheap seats, the GoN crew watches as better looking and decidingly more informed GoN replacements deliver a special episode discussing [Don Cryptonium](https://twitter.com/DonCryptonium), Cosmos drama, Juno funding, [DAO DAO](https://twitter.com/DA0_DA0) and more.
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
