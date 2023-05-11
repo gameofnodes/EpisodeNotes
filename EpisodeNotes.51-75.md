@@ -138,3 +138,18 @@ In these trying times, the crew has been forced to outsource Game of Nodes to ch
 Shoved to the cheap seats, the GoN crew watches as better looking and decidingly more informed GoN replacements deliver a special episode discussing [Don Cryptonium](https://twitter.com/DonCryptonium), Cosmos drama, Juno funding, [DAO DAO](https://twitter.com/DA0_DA0) and more.
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 61: And Now For Something Completely Different
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) reminisce about an old friend, catch up on NEW EXCITING TAX TOPICS, discuss Juno Core 1 drama, the [Neutron](https://neutron.org/) slow-start, the reality of Interchain Security, the horrors of online gaming DAOs and introduce Jimmy Smallballs.
+
+- [Eve Online heist - pcgamer](https://www.pcgamer.com/eve-online-player-uses-obscure-rule-to-pull-off-the-biggest-heist-in-the-games-history/)
+- [Eve Online Guild Member killed in Benghazi - wired](https://www.wired.com/2012/09/vilerat/)
+- [Megachad Assaf Morami on weighted voting - twitter](https://twitter.com/assafmo/status/1655094533003067393)
+- [Core 1 vote on Notional - daodao](https://daodao.zone/dao/juno1j6glql3xmrcnga0gytecsucq3kd88jexxamxg3yn2xnqhunyvflqr7lxx3/proposals/A11)
+- Media recommendations:
+  - [Letterkenny cold open - youtube](https://www.youtube.com/watch?v=jI2GVcjXXI8)
+  - [Monkey Dust - youtube](https://www.youtube.com/watch?v=jaUkt59vY1Q)
+  - [League of Gentlemen - imdb](https://www.imdb.com/title/tt0184135/)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
