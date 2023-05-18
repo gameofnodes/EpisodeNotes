@@ -153,3 +153,21 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
   - [League of Gentlemen - imdb](https://www.imdb.com/title/tt0184135/)
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 62: Bullish on DPS
+
+With special guest [nullmames](https://twitter.com/nullMames)!
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames), and [usurper](https://twitter.com/rhinostake) get the band back together for some _real_ DPS. We forge waist-deep through all this Cryto bullshit to give our takes on the [Stargaze](https://twitter.com/StargazeZone) breakup, Ledger key sharding, and more.
+
+- Stargaze Stuff
+  - [Jake Sells Stars - sheets](https://docs.google.com/spreadsheets/d/1KrlzzhI-xvQQ1PBMsLYULOBJRhXE9qfL_0lgOSWMR8Y/edit?usp=sharing)
+  - [Breakup Tweet - twitter](https://twitter.com/StargazeZone/status/1658880399253331968)
+  - [Jake's FUD Space - twitter](https://twitter.com/JakeHartnell/status/1658938053803778052)
+- Ledger Stuff
+  - [Ledger Under Fire - cryptopotato](https://cryptopotato.com/ledger-under-fire-for-allegedly-exposing-user-seed-phrases/)
+  - [The Ledger Misunderstanding - twitter](https://twitter.com/nassyweazy/status/1658485594127994881)
+  - [Secure Element or Not? - twitter](https://twitter.com/0xfoobar/status/1658965272416452609)
+- [Sunny's Hardware Wallets - twitter](https://twitter.com/sunnya97/status/1658922586477142017)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
