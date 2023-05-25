@@ -171,3 +171,19 @@ With special guest [nullmames](https://twitter.com/nullMames)!
 - [Sunny's Hardware Wallets - twitter](https://twitter.com/sunnya97/status/1658922586477142017)
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 63: The Shitcoin King of the Midwest
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) have given up. Catch this special Episode #63 to listen to the team circle the drain and avoid Cosmos for a full 90 minutes.
+
+- Notable Cosmos Launches and Discussions
+  - [Nolus](https://nolus.io/)
+  - [Noble](https://nobleassets.xyz/)
+- Like a Version (caution, cannot unsee)
+  - [Flume covers Bag Raiders 'Shooting Stars' - youtube](https://youtu.be/ZLcXIrTwPUM)
+  - [Peking Duk cover Crowded House 'Fall At Your Feet' - youtube](https://youtu.be/KIchYs0RaYM)
+- [Huckleberry - wikipedia](https://en.wikipedia.org/wiki/Huckleberry)
+- [Tool Lateralus album with SM64 Soundfont - youtube](https://youtu.be/SKXvFM6x-2o)
+- [Tool-The Pot-Johnkew Drum Cover - youtube](https://youtu.be/Z1RkYmYP0zU)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
