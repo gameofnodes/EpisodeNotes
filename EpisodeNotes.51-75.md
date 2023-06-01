@@ -174,7 +174,7 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 
 ## Episode 63: The Shitcoin King of the Midwest
 
-[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) have given up. Catch this special Episode #63 to listen to the team circle the drain and avoid Cosmos for a full 90 minutes.
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) have given up. Catch this special Episode #63 to listen to the team circle the drain and avoid Cosmos for a full 90 minutes.
 
 - Notable Cosmos Launches and Discussions
   - [Nolus](https://nolus.io/)
@@ -185,5 +185,17 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 - [Huckleberry - wikipedia](https://en.wikipedia.org/wiki/Huckleberry)
 - [Tool Lateralus album with SM64 Soundfont - youtube](https://youtu.be/SKXvFM6x-2o)
 - [Tool-The Pot-Johnkew Drum Cover - youtube](https://youtu.be/Z1RkYmYP0zU)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 64: This Bad Boy Can Fit So Much Drama In It
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) ignore PagerDuty for a _good_ 90 minutes to catch up on both this week's Cosmos drama and 19th century opium drama.
+
+- [Notional's Twitter bullshit - youtube](https://youtu.be/o-YBDTqX_ZU)
+- [Chinese Whispers - wikipedia](https://en.wikipedia.org/wiki/Chinese_whispers)
+- [British Opium Wars - nam.ac.uk](https://www.nam.ac.uk/explore/opium-war-1839-1842#:~:text=Between%201839%20and%201842%2C%20British,Chinese%20trade%20to%20British%20merchants.)
+- [The Thousand Autumns of Jacob de Zoet - amazon](https://www.amazon.com/Thousand-Autumns-Jacob-Zoet-Novel/dp/0812976363)
+- [shadeprotocol.com](https://shadeprotocol.io/)
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
