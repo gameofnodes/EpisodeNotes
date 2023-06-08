@@ -199,3 +199,20 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 - [shadeprotocol.com](https://shadeprotocol.io/)
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 65: Funding Bezos' New Yacht
+
+Short Description: There ain't no party like a SEC party, cause a SEC party don't stop.
+
+Long:
+
+[schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) welcome guest/host [Bendy](https://twitter.com/The_BendyOne) to discuss the Royal Monarchy, the SEC, and other out-of-date stuff.
+
+- [The Howey Test - wikipedia](https://en.wikipedia.org/wiki/SEC_v._W._J._Howey_Co.)
+- [Howey Test Definition: What It Means and Implications for Cryptocurrency - investopedia](https://www.investopedia.com/terms/h/howey-test.asp)
+- [OpenAI CEO in "historic" move calls for regulation before Congress - axios](https://www.axios.com/2023/05/16/openai-ceo-sam-altman-artificial-intelligence-congress)
+- [Circle Begins Putting Reserves Into New BlackRock Fund - coindesk](https://www.coindesk.com/business/2022/11/03/circle-begins-putting-reserves-into-new-blackrock-fund/)
+- [AC/DC Big Balls - youtube](https://youtu.be/4WwJ6OVSwkM)
+- [Neighbours - imdb](https://www.imdb.com/title/tt0088580/)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
