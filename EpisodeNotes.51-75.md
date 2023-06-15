@@ -216,3 +216,30 @@ Long:
 - [Neighbours - imdb](https://www.imdb.com/title/tt0088580/)
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 66: User Needs? More Like User Nerds
+
+4 smooth brains attempt to understand penumbra from the man, @hdevalence.
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) welcome [hdevalence](https://twitter.com/hdevalence) from [penumbra](https://penumbra.zone/)!
+
+How do you build privacy preserving cryptography that people are actually going to use? That question is the basis for penumbra and this episode.
+
+- [penumbra.zone](https://penumbra.zone/)
+- [@hdevalence - twitter](https://twitter.com/hdevalence)
+- [penumbra wallet - google](https://chrome.google.com/webstore/detail/penumbra-wallet/lkpmkhpnhknhmibgnmmhdhgdilepfghe)
+- [Japanese beetles - oregon.gov](https://www.oregon.gov/ODA/shared/Documents/Publications/IPPM/JapaneseBeetleFactSheet.pdf)
+- [What are the user needs in the Cosmos? - twitter](https://twitter.com/frey_needlecast/status/1666773100103450629)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+00:00:00 The voice-operated cat door
+00:49:03 Bask in the glow
+00:51:00 Snowden, Reddit and the open internet
+01:05:30 heh-heh, he said poll, heh-heh
+01:10:40 Wardley? I hardly knew her.
+01:12:44 All progress lead to taxes
+01:21:05 Bad Kids as a Security
