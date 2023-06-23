@@ -243,3 +243,28 @@ Timestamps:
 01:10:40 Wardley? I hardly knew her.
 01:12:44 All progress lead to taxes
 01:21:05 Bad Kids as a Security
+
+## Episode 67: Phunky Business
+
+Let's get Phunky
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) are joined by [Phunky 🍀🧸👑](https://twitter.com/ThePhunky1)! Come listen to The Good Vibes Guy talk about himself, Lucky Friday Labs, Teddy DAO and more.
+
+- [luckyfriday.io](https://luckyfriday.io/)
+- [Lucky Friday Labs - twitter](https://twitter.com/LuckyFridayLabs)
+- [Teddy DAO - twitter](https://twitter.com/TeddyDAONFT)
+- [Web3 Charity Teddy DAO is Raising Money Through Daily NFT Auctions - coindesk](https://www.coindesk.com/web3/2023/06/20/web3-charity-teddy-dao-is-raising-money-through-daily-nft-auctions/)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+0	Drivel
+00:08:35 Drill tweet
+00:14:34 The News?
+00:23:07  Airdrops
+00:38:52 FiNaNcIaL aDvIcE
+00:40:16 Schultzie financial crimes
+00:43:29 Phunky Phorigins
+00:55:29 The Neverending Promise of Merch
