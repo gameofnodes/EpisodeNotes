@@ -268,3 +268,25 @@ Timestamps:
 00:40:16 Schultzie financial crimes
 00:43:29 Phunky Phorigins
 00:55:29 The Neverending Promise of Merch
+
+
+## Episode 68: No With Veto
+
+web3 is going just great
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) talk Twitter, new chain launches, buying &amp; selling rocks, riding the coin wave and, of course, the experts weigh in on carbon fiber submarines.
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+0	web3 is going just great
+00:06:03 New chains, new pains
+00:10:00 It's raining stables
+00:27:10 Investing in rocks
+00:39:25 Twitter is garbage
+00:45:15 Dril Tweet of the Week
+00:46:40 How to test in prod
+00:53:13 Riding the wave, at a loss
+01:07:44 Submarine experts weigh in
