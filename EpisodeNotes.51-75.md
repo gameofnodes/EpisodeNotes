@@ -269,7 +269,6 @@ Timestamps:
 00:43:29 Phunky Phorigins
 00:55:29 The Neverending Promise of Merch
 
-
 ## Episode 68: No With Veto
 
 web3 is going just great
@@ -290,3 +289,18 @@ Timestamps:
 00:46:40 How to test in prod
 00:53:13 Riding the wave, at a loss
 01:07:44 Submarine experts weigh in
+
+## Episode 69: Niiice.
+
+Commoditiwhat?
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) talk Cosmos testnets, new L1s, dydx testnet 4, the problems with rust, burning tokens irl, and the commoditization of tooling.
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+0	Drivel
+31:50 Testnets and more testnets
+01:01:07 Commoditization of Cosmos
