@@ -304,3 +304,25 @@ Timestamps:
 0	Drivel
 31:50 Testnets and more testnets
 01:01:07 Commoditization of Cosmos
+
+## Episode 70: GoN Are Not At Awesomewasm
+
+Measuring Cosmos chain success by D2F
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) question New Coke, Old Chains and everything in-between.
+
+- [Why Coca-Cola's New Coke Flopped - history.com](https://www.history.com/news/why-coca-cola-new-coke-flopped)
+- [Metamask Snaps - metamask.io](https://metamask.io/snaps/)
+- [Omnifix.network](https://omniflix.network/)
+- [Chainlink CCIP - chain.link](https://chain.link/cross-chain)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+0	Drivel and the news
+00:07:30 Old Luna, New Coke, Metamask Snaps
+00:22:30 Less Validators and how to exit
+00:54:34 Metamask users, Cosmos and the Omniflix value
+01:13:43 Hiking and being the family donkey
