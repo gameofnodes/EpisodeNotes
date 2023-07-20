@@ -326,3 +326,16 @@ Timestamps:
 00:22:30 Less Validators and how to exit
 00:54:34 Metamask users, Cosmos and the Omniflix value
 01:13:43 Hiking and being the family donkey
+
+## Episode 71: MIA
+
+the-frey and usurper have disappeared, will Null and Schultzie solve the case?
+
+Long:
+
+[schultzie](https://twitter.com/dylanschultzie) and [nullmames](https://twitter.com/nullMames) are left naked and alone on GoN Island. In order to survive this very special episode, they stay warm by burning Interchain Security (ICS) and the Stride validator tokenomics into the ground.
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+<none>
