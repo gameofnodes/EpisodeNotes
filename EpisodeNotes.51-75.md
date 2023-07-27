@@ -339,3 +339,24 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 
 Timestamps:
 <none>
+
+## Episode 72: We're Back, Baby
+
+The DAO is coming from INSIDE the house!
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) and (house) guest [Jake Hartnell](https://twitter.com/JakeHartnell) talk Cosmos wrestling, bourbon, mesh security, and attempt to name all the Cosmos Simpsons characters.
+
+- [What is Mesh Security? Interview with Jake Hartnell - youtube](https://www.youtube.com/watch?v=qjtI9znIIA8)
+- [Peak Cosmos - youtube](https://www.youtube.com/watch?v=5hjZ2WMcsrM)
+- [Dark Side of the Ring - imdb](https://www.imdb.com/title/tt9159144/)
+- [Behind the Bastards - iheart](https://behindthebastards.com)
+- [History of Bourbon - americanbourbonassociation](https://www.americanbourbonassociation.com/what-bourbon)
+- [Arbitrum DAO - arbitrum.foundation](https://docs.arbitrum.foundation/concepts/arbitrum-dao)
+- [emacs key bindings in bash - pythian.com](https://blog.pythian.com/emacs-keybindings-in-bash/)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+<none>
