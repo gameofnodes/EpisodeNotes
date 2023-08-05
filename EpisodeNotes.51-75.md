@@ -360,3 +360,18 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 
 Timestamps:
 <none>
+
+## Episode 73: Feelin' the FOMO
+
+Everything is a DAO
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast) and [nullmames](https://twitter.com/nullMames) welcome the incredible [Spoorthi](https://twitter.com/spoo_bar)! We talk about recent hacks, MEV winnings, and then go on to explore the intimate relationship between man and keyboard. What does your keyboard say about your desire for world domination? Also, something, something, nebular. 
+
+- [Comparison with solidity contracts - archway.io](https://docs.archway.io/developers/cosmwasm-documentation/architecture/comparison-with-ethereum)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+<none>
