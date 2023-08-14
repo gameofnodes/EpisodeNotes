@@ -84,7 +84,7 @@ Follow the GoN crew on [twitter](https://mobile.twitter.com/gameofnodes_) and su
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today. DO IT.
 
-## Episode 57: Hang in There!
+## Episode 57: Hang in There
 
 [the-frey](https://mobile.twitter.com/frey_needlecast), [Lavender.Five](https://www.lavenderfive.com/), [Kingnodes](https://www.kingnodes.com/) and [RHINO](https://rhinostake.com/) discuss bad coffee, good alcohol, Cosmos TED talks, and most importantly when to YAWP and when to shill.
 
@@ -260,7 +260,7 @@ Long:
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
 
 Timestamps:
-0	Drivel
+0 Drivel
 00:08:35 Drill tweet
 00:14:34 The News?
 00:23:07  Airdrops
@@ -280,7 +280,7 @@ Long:
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
 
 Timestamps:
-0	web3 is going just great
+0 web3 is going just great
 00:06:03 New chains, new pains
 00:10:00 It's raining stables
 00:27:10 Investing in rocks
@@ -290,7 +290,7 @@ Timestamps:
 00:53:13 Riding the wave, at a loss
 01:07:44 Submarine experts weigh in
 
-## Episode 69: Niiice.
+## Episode 69: Niiice
 
 Commoditiwhat?
 
@@ -301,7 +301,7 @@ Long:
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
 
 Timestamps:
-0	Drivel
+0 Drivel
 31:50 Testnets and more testnets
 01:01:07 Commoditization of Cosmos
 
@@ -321,7 +321,7 @@ Long:
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
 
 Timestamps:
-0	Drivel and the news
+0 Drivel and the news
 00:07:30 Old Luna, New Coke, Metamask Snaps
 00:22:30 Less Validators and how to exit
 00:54:34 Metamask users, Cosmos and the Omniflix value
@@ -367,9 +367,24 @@ Everything is a DAO
 
 Long:
 
-[the-frey](https://twitter.com/frey_needlecast) and [nullmames](https://twitter.com/nullMames) welcome the incredible [Spoorthi](https://twitter.com/spoo_bar)! We talk about recent hacks, MEV winnings, and then go on to explore the intimate relationship between man and keyboard. What does your keyboard say about your desire for world domination? Also, something, something, nebular. 
+[the-frey](https://twitter.com/frey_needlecast) and [nullmames](https://twitter.com/nullMames) welcome the incredible [Spoorthi](https://twitter.com/spoo_bar)! We talk about recent hacks, MEV winnings, and then go on to explore the intimate relationship between man and keyboard. What does your keyboard say about your desire for world domination? Also, something, something, nebular.
 
 - [Comparison with solidity contracts - archway.io](https://docs.archway.io/developers/cosmwasm-documentation/architecture/comparison-with-ethereum)
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+Timestamps:
+<none>
+
+## Episode 73: Are We A DAODAODAO Yet?
+
+Everything is a DAODAO
+
+Long:
+
+[GoN is a DAO](https://daodao.zone/dao/juno1evq88ykzdgsqfjpcsqexnej583tekqxcue7mjzw8jq46wu0gtzpswu8gv3).
+
+That's it.  That's the episode. [the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames) and [schultzie](https://twitter.com/dylanschultzie) carry on for 90 minutes anyway.
 
 Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
 
