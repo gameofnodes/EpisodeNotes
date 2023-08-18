@@ -390,3 +390,11 @@ Support Game of Nodes and other great independent validators in the Cosmos! Make
 
 Timestamps:
 <none>
+
+## Episode 75: Brand New Bad News
+
+Long:
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie) and [usurper](https://twitter.com/rhinostake) cover the [Sei](https://www.sei.io/) launch, airdrop garbage, Stashh App email signups, Friend.tech, ICS, and attempt to `go mod tidy` the Cosmos.
+
+Support Game of Nodes and other great independent validators in the Cosmos! Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
