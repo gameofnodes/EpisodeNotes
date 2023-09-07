@@ -22,7 +22,7 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 
 We chat about the smooth Stargaze upgrade, the Osmo developer "loans" (lol), BitBoy getting pushed out, Grayscale's win against the SEC, and announce our financial support of [NFT Nashville](https://www.nftnashville.io/).
 
-NFT Nashville is November 4th, in Nashville TN.  [Register Now](https://www.nftnashville.io/)!
+NFT Nashville is November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
 
 ### Show Links
 
@@ -31,5 +31,21 @@ NFT Nashville is November 4th, in Nashville TN.  [Register Now](https://www.nftn
 - [Grayscale wins SEC lawsuit for Bitcoin ETF review - cointelegraph](https://cointelegraph.com/news/grayscale-wins-sec-lawsuit)
 - [Explainer: Understanding Grayscale's victory in spot bitcoin ETF case - reuters](https://www.reuters.com/business/finance/whats-stake-grayscales-spot-bitcoin-etf-case-against-sec-2023-08-29/)
 - [hansum.club](https://hansum.club/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 78: GoN are the new CEOs of the Hub
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake), in this triple-Dril Tweet episode, catch up on boomer email salutations, World War II updates, ICF Foundation Council member applications, the death of WYND, Noble's Huge Announcement, and more.
+
+Don't forget: NFT Nashville is November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [RealTimeWWII - twitter](https://twitter.com/RealTimeWWII)
+- [ICF, plz no - twitter](https://twitter.com/gadikian/status/1698178765652902048?s=20)
+- [RIP WYND - twitter](https://twitter.com/AirdropGlideapp/status/1698338129550139870?s=20)
+- [Visa Expands Stablecoin Settlement Capabilities to Merchant Acquirers - businesswire](https://www.businesswire.com/news/home/20230905549860/en/Visa-Expands-Stablecoin-Settlement-Capabilities-to-Merchant-Acquirers)
+- [USDC any day now - twitter](https://twitter.com/noble_xyz/status/1697630497059287227?s=20)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
