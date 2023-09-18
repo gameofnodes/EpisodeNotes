@@ -49,3 +49,18 @@ Don't forget: NFT Nashville is November 4th, in Nashville TN. [Register Now](htt
 - [USDC any day now - twitter](https://twitter.com/noble_xyz/status/1697630497059287227?s=20)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 79: Should Jonas Have Attacked Kuss?
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake), are joined by [Rarma](https://twitter.com/rarma_)! We hot-swap Aussies and discuss just what a "Sepp Kuss" is, tackle the Noble launch, the MetaMask Cosmos Snap, Cosmos Hub Exit Liquidity and more.
+
+Don't forget: NFT Nashville is November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Circle finally deploys USDC to Noble - twitter](https://x.com/circle/status/1701582597376336173?s=20)
+- [MetaMask Snaps Open Beta - youtube](https://youtu.be/mneNl4Dr8sM)
+- [ibc.chat launch - twitter](https://twitter.com/fabienpenso/status/1701283798061621512?s=20)
+- [Composable wants into the AEZ - cosmos.network](https://forum.cosmos.network/t/proposal-composable-to-join-atom-economic-zone-and-adopt-interchain-security/11472/20)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
