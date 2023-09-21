@@ -64,3 +64,19 @@ Don't forget: NFT Nashville is November 4th, in Nashville TN. [Register Now](htt
 - [Composable wants into the AEZ - cosmos.network](https://forum.cosmos.network/t/proposal-composable-to-join-atom-economic-zone-and-adopt-interchain-security/11472/20)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 80: This Podcast Will Continue Until Morale Improves
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), and [usurper](https://twitter.com/rhinostake) catch up on the exciting world of cycling or football or something. We talk Canto bailing out to the Cosmos,
+expanding validator sets, Cosmos chains TVL and when is right to leave a validator set.
+
+Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Canto heading for the Cosmos exit - twitter](https://twitter.com/RyanSAdams/status/1703882356468117703?s=20)
+- [Injective launches an inEVM - twitter](https://twitter.com/Injective_/status/1704120038339338335?s=20)
+- [Circle issues native USDC on Polkadot - theblock](https://www.theblock.co/post/251796/circle-usdc-polkadot)
+- [usurper on Omniflix FlixTalk #86 - twitter](https://twitter.com/terraspacesorg/status/1704669804794466480)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
