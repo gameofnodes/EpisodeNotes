@@ -80,3 +80,19 @@ Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](h
 - [usurper on Omniflix FlixTalk #86 - twitter](https://twitter.com/terraspacesorg/status/1704669804794466480)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+
+## Episode 81: Can I Pay My AWS Bill In Fun?
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) talk movie classics, depegging stATOM, and...listen I'd love to tell you you more but I need to sit down in the lobby and wait for the limo.
+
+Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Bad Boy Bubby - imdb](https://www.imdb.com/title/tt0106341/)
+- [stATOM surge/depeg/morons - twitter](https://twitter.com/lurkaroundfind/status/1706300105614077969)
+- [Welcome back to Guess these Cosmos Wallets ATOM - medium](https://medium.com/@Rarma_/welcome-back-to-guess-these-cosmos-wallets-be7440ff61be)
+- [Informal/Hypha 2024 Spend it All - google](https://docs.google.com/document/u/3/d/e/2PACX-1vTfVmYZJ3YA5M5ZCHe0g0c2i_1jHnlmPrwD6880gN3hALcO8zNpAzYlzI2wOBqibChWsXgxjzwprjkE/pub)
+- [Celestia airdrop for some - twitter](https://twitter.com/CelestiaOrg/status/1706671239572676881)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
