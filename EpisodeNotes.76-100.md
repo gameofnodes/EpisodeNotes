@@ -95,4 +95,4 @@ Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](h
 - [Informal/Hypha 2024 Spend it All - google](https://docs.google.com/document/u/3/d/e/2PACX-1vTfVmYZJ3YA5M5ZCHe0g0c2i_1jHnlmPrwD6880gN3hALcO8zNpAzYlzI2wOBqibChWsXgxjzwprjkE/pub)
 - [Celestia airdrop for some - twitter](https://twitter.com/CelestiaOrg/status/1706671239572676881)
 
-Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io/), [Kingnodes](https://www.kingnodes.com/), [RHINO](https://rhinostake.com/), and [Lavender.Five](https://www.lavenderfive.com/) a part of your delegation strategy today.
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
