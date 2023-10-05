@@ -99,7 +99,7 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 
 ## Episode 82: Conference, Shmonference
 
-[nullmames](https://twitter.com/nullMames) and [schultzie](https://twitter.com/dylanschultzie) welcome [Bendy](https://twitter.com/The_BendyOne) and [Phunky 🧸🍀👑](https://twitter.com/ThePhunky1)! Conference season is here, and the crew runs down
+[nullmames](https://twitter.com/nullMames) and [schultzie](https://twitter.com/dylanschultzie) welcome [Bendy](https://twitter.com/The_BendyOne) and [Phunky 🧸🍀👑](https://twitter.com/ThePhunky1)! Conference season is here, and the crew of course ignores all that shill and talks today's drama instead.
 
 Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](https://www.nftnashville.io/)!
 
