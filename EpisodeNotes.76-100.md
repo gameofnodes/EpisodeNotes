@@ -96,3 +96,19 @@ Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](h
 - [Celestia airdrop for some - twitter](https://twitter.com/CelestiaOrg/status/1706671239572676881)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 82: Conference, Shmonference
+
+[nullmames](https://twitter.com/nullMames) and [schultzie](https://twitter.com/dylanschultzie) welcome [Bendy](https://twitter.com/The_BendyOne) and [Phunky 🧸🍀👑](https://twitter.com/ThePhunky1)! Conference season is here, and the crew runs down
+
+Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Only DOT user on Cosmos rekt - twitter](https://twitter.com/Rarma_/status/1708045478116602279)
+- [@chjango goes after Jack Z - twitter](https://twitter.com/chjango/status/1708712161433047083)
+- [GoN news research performs walk-out - mintscan](https://dev.mintscan.io/osmosis/txs/ECA4547A12B482DA8DEC5294357949DD479838A65B75C84086FA8758019F14B1?height=11711629)
+- [Nomic founder SIM swapped - twitter](https://twitter.com/nomicbtc/status/1707957865531502726)
+- [Notional wants big blocks, world doesn't care - twitter](https://twitter.com/zanglang/status/1709389754557669566)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
