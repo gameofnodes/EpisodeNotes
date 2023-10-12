@@ -112,3 +112,21 @@ Why not head to NFT Nashville on November 4th, in Nashville TN? [Register Now](h
 - [Notional wants big blocks, world doesn't care - twitter](https://twitter.com/zanglang/status/1709389754557669566)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 83: Baby's First Bank Run
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) are back in the saddle discussing SmartCon 2023 shilling, Caroline flipping on SBF and the Prisoner's Dilemma, Neutron's listing on Binance, AM/FM radio, the search for AMD Gen4 big-balls hardware, permissionless wasm and just how fat we all are.
+
+Today we Shill! Head to NFT Nashville on November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Prisoner's dilemma - wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
+- [What Is the Prisoner's Dilemma and How Does It Work? - investopedia](https://www.investopedia.com/terms/p/prisoners-dilemma.asp)
+- [Neutron listed on Binance, and the bots are out - twitter](https://twitter.com/Rarma_/status/1711665980907409546)
+- [Incentives in BitTorrent Induce Free Riding - acm.org](https://dl.acm.org/doi/pdf/10.1145/1080192.1080199)
+- [Cosmos Clowns - twitter](https://twitter.com/clowns9000/status/1711745351894302986)
+- [Enabling Permissionless Smart Contract Deployment - stargaze](https://gov.stargaze.zone/discussion/13347-enabling-permissionless-smart-contract-deployment)
+- [Body mass index - wikipedia](https://en.wikipedia.org/wiki/Body_mass_index)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
