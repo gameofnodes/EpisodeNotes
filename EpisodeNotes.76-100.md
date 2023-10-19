@@ -130,3 +130,20 @@ Today we Shill! Head to NFT Nashville on November 4th, in Nashville TN. [Registe
 - [Body mass index - wikipedia](https://en.wikipedia.org/wiki/Body_mass_index)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 84: Your Browsing History, But on Blockchain!
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) fight through Frey's terrible internet, Null's excellent camera, Cosmos expansion (and contraction), and a stack of news to bring you this gem of an episode. Listen, it's episode #84, they all can't be zingers.
+
+There's still time! Head to NFT Nashville on November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Bro, you're out of range - twitter](https://twitter.com/Rarma_/status/1714456705092952537?s=20)
+- [Composable Finance Yawps - twitter](https://twitter.com/ComposableFin/status/1714296154475593998?s=20)
+- [Stride volatility drives rewards halt - twitter](https://twitter.com/stride_zone/status/1713286566737580119?s=20)
+- [Reddit is killing blockchain-based Community Points - techcrunch](https://techcrunch.com/2023/10/17/reddit-is-phasing-out-community-points-blockchain-rewards/)
+- [Celestia airdrop hits 1/3rd, devs rejoice - twitter](https://twitter.com/CelestiaOrg/status/1714704675445109004?s=20)
+- [@chjango shits on Strangelove - twitter](https://twitter.com/chjango/status/1708712161433047083?s=20)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
