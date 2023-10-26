@@ -147,3 +147,19 @@ There's still time! Head to NFT Nashville on November 4th, in Nashville TN. [Reg
 - [@chjango shits on Strangelove - twitter](https://twitter.com/chjango/status/1708712161433047083?s=20)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 85: The GoN T-Shirt Saga Continues
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) discuss expanding validator sets, contracting Cosmos chains, Osmosis becoming an ICF chain, dYdX v4, oh and btw _we are so back_.
+
+There's still time! Head to NFT Nashville on November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Allocate 900k ATOM for LPing in the Osmosis stATOM/ATOM pool - cosmos.network](https://forum.cosmos.network/t/proposal-allocate-900k-atom-for-lping-in-the-osmosis-statom-atom-pool/11629?u=sunnya97)
+- [The OSMOCon Bathroom Incident™ - twitter](https://twitter.com/ox_dao/status/1717113603159961811)
+- [dYdX v4 is around the corner - twitter](https://twitter.com/dYdX/status/1716802093946921353)
+- [Kujira - coingecko](https://www.coingecko.com/en/coins/kujira)
+- [Osmosis - coingecko](https://www.coingecko.com/en/coins/osmosis)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
