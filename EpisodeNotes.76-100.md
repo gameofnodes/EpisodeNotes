@@ -163,3 +163,19 @@ There's still time! Head to NFT Nashville on November 4th, in Nashville TN. [Reg
 - [Osmosis - coingecko](https://www.coingecko.com/en/coins/osmosis)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 86: The Long Yawp Home
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) walk waist-deep into the bog that is Cosmos psychoanalysis and suddenly end up under-water. We catch up on the Juno pump, the costs of running an explorer, new launches with dYdX and Celestia, Aptos stressnet updates and more.
+
+There's still time! Head to NFT Nashville this Saturday on November 4th, in Nashville TN. [Register Now](https://www.nftnashville.io/)!
+
+### Show Links
+
+- [Greatest Thread of All Time - cosmos.network](https://forum.cosmos.network/t/an-organizational-psychology-perspective-on-cosmos-with-a-few-initial-recommendations)
+- [Snowtrace calls it quits - twitter](https://x.com/SnowTraceHQ/status/1718982848462696919?s=20)
+- [snowtrace.io](https://snowtrace.io/)
+- [Crypto.com lists Juno - twitter](https://twitter.com/Reecepbcups_/status/1719207490275995765?s=20)
+- [Metallic: Some Kind of Monster - imdb](https://www.imdb.com/title/tt0387412/?ref_=ext_shr_lnk)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
