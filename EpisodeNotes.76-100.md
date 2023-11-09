@@ -179,3 +179,17 @@ There's still time! Head to NFT Nashville this Saturday on November 4th, in Nash
 - [Metallic: Some Kind of Monster - imdb](https://www.imdb.com/title/tt0387412/?ref_=ext_shr_lnk)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 87: Game of Nodes is not a Cult!
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) avoid crypto for 85 minutes, but eventually come around to talking about the Aptos stressnet, Evmos "Eth first" approach, Rarma proving a point with the Cosmos Hub, SBF doin' hard time, and the potential for permanent eye damage associated to NFT ownership.
+
+### Show Links
+
+- [Evmos Signals Ethereum Alignment By Fully Deprecating Cosmos Transactions - medium](https://medium.com/evmos/evmos-signals-ethereum-alignment-by-fully-deprecating-cosmos-transactions-d1f92c2cd443)
+- [Tell Jacob it was me - twitter](https://twitter.com/Rarma_/status/1720307245941248335?s=20)
+- [Our understanding of the Cosmos Hub mempool issues - cosmos.network](https://forum.cosmos.network/t/our-understanding-of-the-cosmos-hub-mempool-issues/12040)
+- [Caroline Ellison Sentencing: When Will the ex-Alameda Chief, SBF’s Inner Circle Learn Their Fate? - ccn](https://www.ccn.com/news/caroline-ellison-sentencing-jail-sbf-inner-circle/)
+- [Bored Ape NFT Partygoers Blame UV Lights For Burned Eyes And Skin - kotaku](https://kotaku.com/bored-apes-nft-blind-eye-pain-uv-light-party-apefest-1850995251)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
