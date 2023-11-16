@@ -193,3 +193,13 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Bored Ape NFT Partygoers Blame UV Lights For Burned Eyes And Skin - kotaku](https://kotaku.com/bored-apes-nft-blind-eye-pain-uv-light-party-apefest-1850995251)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 88: Validator Full Node Moar Like Validator F\_\_ked Node
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) give dramatic updates on the Aptos Stressnet, Big Balls AMD EPYC architectures, Omniflix shady upgrades, the current situation in the dYdX validator set, and pissing in the wind.
+
+### Show Links
+
+- [DYDX enables trading - twitter](https://twitter.com/AntonioMJuliano/status/1724491559310086193?s=20)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
