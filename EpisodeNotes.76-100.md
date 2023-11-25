@@ -203,3 +203,15 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [DYDX enables trading - twitter](https://twitter.com/AntonioMJuliano/status/1724491559310086193?s=20)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 89: I'll Show You Mine if You Show Me Yours
+
+[nullmames](https://twitter.com/nullMames), [Bendy](https://twitter.com/The_BendyOne), and [Rarma](https://twitter.com/Rarma_) talk about.... who knows. They didn't take a single show-note. Are you happy now?
+
+Edit: Looks like Shultzie was on.
+
+Edit2: Oh, And [Ertemann](https://twitter.com/ertemann)!
+
+Edit3: Still crap.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
