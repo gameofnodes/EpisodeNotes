@@ -215,3 +215,18 @@ Edit2: Oh, And [Ertemann](https://twitter.com/ertemann)!
 Edit3: Still crap.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 90: Fault Tolerant As Fuck
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) are back and distracted as ever. We catch up on splitting ATOM, splitting Notional, USDC taking over the universe and we almost make a good point.
+
+### Show Links
+
+- [Announcing the Notional split - twitter](https://twitter.com/_cat_shark/status/1729591162804093358?t=u6wiYwxmES0YsFX6SYUJGg)
+- [About multi-sigs at Notional - twitter](https://twitter.com/mgl2150/status/1729928831296008672?t=u6wiYwxmES0YsFX6SYUJGg)
+- [Rarma love blacklists - twitter](https://twitter.com/rarma_/status/1729852572557565964?t=u6wiYwxmES0YsFX6SYUJGg)
+- [Secondary Sanction Tools for Cryptocurrency Exchanges (and validators) - twitter](https://x.com/CampbellJAustin/status/1729693581235892652?s=20)
+- [AADAO, year 2 - twitter](https://twitter.com/atomaccelerator/status/1728849841382715643?t=u6wiYwxmES0YsFX6SYUJGg)
+- [Fargo Season 5 - imdb](https://www.imdb.com/title/tt2802850/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_Farg)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
