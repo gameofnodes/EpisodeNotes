@@ -230,3 +230,20 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Fargo Season 5 - imdb](https://www.imdb.com/title/tt2802850/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_Farg)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 91: To Be Rich In S\*\*tcoins Is To Be Poor In Nothing
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) refuse to read the (lengthy) show notes and dive into the upcoming [Aleo](https://twitter.com/aleohq) testnet, running hardware, reversing prop 104, and the ever shrinking Cosmos.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [UK Fund Tokenisation: A Blueprint for Implementation - thia.org](https://www.theia.org/sites/default/files/2023-11/UK%20Fund%20Tokenisation%20-%20A%20Blueprint%20for%20Implementation.pdf)
+- [Coinbase - Accept that it will always be this way - twitter](https://twitter.com/coinbase/status/1730633199087161813)
+- [Signaling Proposal - Claw back unvested funds from Proposal 104 - cosmos.network](https://forum.cosmos.network/t/proposal-draft-signaling-proposal-claw-back-unvested-funds-from-proposal-104/12379)
+- [Understanding the Umee proposal - twitter](https://twitter.com/osmosiszone/status/1731474023836795299)
+- [Make Neutron the home of Mars Prototol - twitter](https://twitter.com/Neutron_org/status/1731633390703845398)
+- [Slap Shot - imdb](https://www.imdb.com/title/tt0076723/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_slap%2520shot)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
