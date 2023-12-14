@@ -247,3 +247,18 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Slap Shot - imdb](https://www.imdb.com/title/tt0076723/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_slap%2520shot)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 92: Slap Chop
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) ignore the impending bull and talk Slap Shot, Die Hard, Ed Harris, Alien(s), and, ooooh right, three major tombstone/slashings on dYdX, Fetch.AI and Injective.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [Die Hard - imdb](https://www.imdb.com/title/tt0095016/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_die%2520hard)
+- [Ed Harris - imdb](https://www.imdb.com/name/nm0000438/?ref_=nv_sr_srsg_0_tt_0_nm_8_q_Ed%2520har)
+- [Alien - imdb](https://www.imdb.com/title/tt0078748/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Alien)
+- [Spring Break - imdb](https://www.imdb.com/title/tt0086352/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_Spring%2520Break)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
