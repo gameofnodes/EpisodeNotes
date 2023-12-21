@@ -262,3 +262,16 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Spring Break - imdb](https://www.imdb.com/title/tt0086352/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_Spring%2520Break)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 93: GoN Christmas Party
+
+[schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) welcome [Bendy](https://twitter.com/The_BendyOne) to discuss [Levana](https://levana.finance) market makers, [Astroport](https://astroport.fi/en) Meme Coin Craziness, buff dudes on stashh.io, and we do our best to bore Bendy to death by discussing node ops.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [Josh Lee on IBC channel dependencies - twitter](https://twitter.com/dogemos/status/1693613378986742132)
+- [stashh.io - stashh.io](https://stashh.io/collection/florian-larmuseau)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
