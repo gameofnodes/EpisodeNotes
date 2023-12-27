@@ -275,3 +275,18 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [stashh.io - stashh.io](https://stashh.io/collection/florian-larmuseau)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+
+## Episode 94: Wall Street 3: Degens Never Sleep
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) ignore that year-in-review crap and talk oracles timing, the roman empire, dYdX, Sei, Injective, the pump, the dump, and the inevitable bull.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [Transaction Exports on Mintscan - twitter](https://twitter.com/cosmostationvd/status/1739912183314829673)
+- [Lavana Oracle Go Burr - twitter](https://twitter.com/eweeveee/status/1739714033341620627)
+- [Mesh Security teaser - twitter](https://twitter.com/JakeHartnell/status/1739795177492082932)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
