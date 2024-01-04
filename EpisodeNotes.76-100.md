@@ -276,7 +276,6 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
 
-
 ## Episode 94: Wall Street 3: Degens Never Sleep
 
 [the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) ignore that year-in-review crap and talk oracles timing, the roman empire, dYdX, Sei, Injective, the pump, the dump, and the inevitable bull.
@@ -288,5 +287,19 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Transaction Exports on Mintscan - twitter](https://twitter.com/cosmostationvd/status/1739912183314829673)
 - [Lavana Oracle Go Burr - twitter](https://twitter.com/eweeveee/status/1739714033341620627)
 - [Mesh Security teaser - twitter](https://twitter.com/JakeHartnell/status/1739795177492082932)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 95: Happy New YOLO
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) welcome back the amazing [Daniel Hwang](https://twitter.com/danhwang88)!  We _almost_ talk about [Aleo](https://twitter.com/AleoHQ), the new layer-1 zero-knowledge chain that's currently in testnet! Instead we talk dYdX vanity state-changes, the challenges of validator distribution, governance and more.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [aleo.org](https://aleo.org/)
+- [Aleo - twitter](https://twitter.com/AleoHQ)
+- [Fix the v2 emergency upgrade jailings - dydx.forum](https://dydx.forum/t/fix-the-v2-emergency-upgrade-jailings/1828)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
