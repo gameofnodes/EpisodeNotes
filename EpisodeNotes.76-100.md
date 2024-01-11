@@ -303,3 +303,20 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Fix the v2 emergency upgrade jailings - dydx.forum](https://dydx.forum/t/fix-the-v2-emergency-upgrade-jailings/1828)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 96: Pagerduty Blues
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) are here for BUSINESS. Our gift for you this week is the US SEC approved the Bitcoin Exchange-Traded Products on stream! Only on Game of Nodes.
+
+Also we chat about that asshole in Maestro, the huge [Sei](https://twitter.com/seinetwork) NFT mint week, [DAO DAO](https://twitter.com/DA0_DA0) and [Juno](https://twitter.com/JunoNetwork) bullshit, retirement planning and more!
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [Statement on the Approval of Spot Bitcoin Exchange-Traded Products - sec.gov](https://www.sec.gov/news/statement/gensler-statement-spot-bitcoin-011023)
+- [Wasn't X's fault - twitter](https://twitter.com/Safety/status/1744924042681897343)
+- [Actually, it's you - twitter](https://twitter.com/GrowJuno/status/1744965417469431811)
+- [Maestro - imdb](https://www.imdb.com/title/tt5535276/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
