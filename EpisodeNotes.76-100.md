@@ -320,3 +320,22 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Maestro - imdb](https://www.imdb.com/title/tt5535276/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 97: Our Sh**tchain Could Be Your Life
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) somehow bitch about both Northern UK _and_ Melbourne weather simultaneously (?), the best Sean Connery movies, [Berachain](https://twitter.com/berachain) testnet, musty houseboats, shilling $NEWT and more.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)! DO IT.
+
+### Show Links
+
+- Movietime
+  - [Due South - imdb](https://www.imdb.com/title/tt0108756/)
+  - [Slap Shot - imdb](https://www.imdb.com/title/tt0076723/)
+  - [Rolling Thunder - imdb](https://www.imdb.com/title/tt0076637/)
+  - [Stargate - imdb](https://www.imdb.com/title/tt0111282/)
+  - [The Hunt for Red October - imdb](https://www.imdb.com/title/tt0099810/)
+- [Issac, the Telegram Trading Assistant - newt.zone](https://trade.newt.zone/)
+- [Berachain absolutely GMI - twitter](https://twitter.com/lavender_five/status/1746529980920496249)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
