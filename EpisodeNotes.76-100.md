@@ -339,3 +339,20 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Berachain absolutely GMI - twitter](https://twitter.com/lavender_five/status/1746529980920496249)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 98: You're Not Getting Out, You're Just Getting Started
+
+[nullmames](https://twitter.com/nullMames) and [usurper](https://twitter.com/rhinostake) do [the-frey's](https://twitter.com/frey_needlecast) homework in real-time, mis-quote Die Hard, correctly discuss [DVT](https://ethereum.org/staking/dvt), spend too much money on too many nodes, and shit on ATOM wars.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)! WE'RE ON THE BLOCKCHAINGOMGOMGOMG
+
+### Show Links
+
+- [On a beach, earning 20% - youtube](https://www.youtube.com/watch?v=DGacDC-a7V8)
+- [SSV Network - ssv.network](https://ssv.network/)
+- [Obol - obol.tech](https://obol.tech/)
+- [ATOM wars post is live on the Cosmos Hub forum - twitter](https://twitter.com/thyborg_/status/1750206273411539111)
+- [Imagine it's your first day in Cosmos - twitter](https://twitter.com/Rarma_/status/1750275874644181230)
+- [Real-world assets to Noble - twitter](https://twitter.com/noble_xyz/status/1750147593756160359)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
