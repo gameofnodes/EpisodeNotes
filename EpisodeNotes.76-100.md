@@ -375,3 +375,18 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 - [Put it in H! - youtube](https://www.youtube.com/watch?v=07vdtBMG4Kg)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+
+## Episode 100: I've Seen A Million Sh**tcoins, And I've Dumped 'em All
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake), in this "out of both-ends" 100th episode, discuss CBDC advances, Juno regressions, free electricity, and the pleasant realities of Singaporean prison.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [Su Zhu Recommends Prison for All - coindesk](https://www.coindesk.com/consensus-magazine/2024/01/29/su-zhu-recommends-prison-for-all-in-an-attempt-to-rebuild-a-reputation/)
+- [Crypto Hacking Losses Halved in 2023 - financemagnates.com](https://www.financemagnates.com/cryptocurrency/crypto-hacking-losses-halved-in-2023-a-surprising-turn/)
+- [Core-1 Vesting drops a number - github](https://github.com/CosmosContracts/juno/compare/v19.0.0...v19.1.0#diff-afe877d0cc57372c0a19abb789c78e507eaec0e4e9f358a5f9a59cff468cc97bR120)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
