@@ -357,7 +357,6 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
 
-
 ## Episode 99: If you're having chain problems, I feel bad for you son
 
 [the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) solve global units of measure, discuss [SeiDB](https://blog.sei.io/sei-db-the-numbers/) and prep for the upcoming Wassailing. Have you even scrumped, bro?

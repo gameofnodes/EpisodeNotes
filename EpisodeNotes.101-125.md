@@ -1,0 +1,23 @@
+# GoN Episode Notes
+
+## Episode 101: Ight, Imma Head Out
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) cross the century mark in style, discussing the fashion icons of the [Bundeswehr](https://www.bundeswehr.de/en/about-bundeswehr/identity-of-the-bundeswehr/bundeswehr-uniforms), the key stats from the [ABS](https://www.abs.gov.au/), and we determine it's still okay to make fun of tombstones.
+
+Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8fac6)!
+
+### Show Links
+
+- [WWIII Team Yankee - team-yankee.com](https://www.team-yankee.com/)
+- [We misconfigured the node - twitter](https://twitter.com/Bro_n_Bro/status/1755591804320358453)
+- [Australian Bureau of Statistics - abs.gov.au](https://www.abs.gov.au/)
+- [Byzantine Fault - wikipedia](https://en.wikipedia.org/wiki/Byzantine_fault)
+- [The Byzantine Generals Problem - baeldung.com](https://www.baeldung.com/cs/distributed-systems-the-byzantine-generals-problem)
+- [The Honey Badger of BFT Protocols - iacr.org](https://eprint.iacr.org/2016/199.pdf)
+- Media
+  - [Death and Other Details - imdb](https://www.imdb.com/title/tt15439048)
+  - [Tokyo Vice - imdb](https://www.imdb.com/title/tt2887954/)
+  - [True Detective - imdb](https://www.imdb.com/title/tt2356777/)
+  - [Beef - imdb](https://www.imdb.com/title/tt14403178/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
