@@ -21,3 +21,18 @@ Check out [GoN on Omniflix.tv](https://omniflix.tv/channel/656e371fd661a858ffa8f
   - [Beef - imdb](https://www.imdb.com/title/tt14403178/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+
+## Episode 102: Hey, Ice Those Yawping Motherf***ers!
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) discuss crazy Cosmos voting power %'s, the Hetzner Advantage™, describing "what we do", and the upcoming [Aptos](https://aptoslabs.com/) previewnet3.
+
+Coming to [EthDenver](https://www.ethdenver.com/)?  Reach out to [@rhinostake](https://twitter.com/rhinostake) for GoN Merch and more!
+
+### Show Links
+
+- [Circle drops USDC on Tron - twitter](https://twitter.com/circle/status/1760108597218889998)
+- [EPYC binning - amd.com](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series.html)
+- [Bufficors Dreamland Opening Party @EthDenver - metis.foundation](https://www.metis.foundation/events/bufficorns-dreamland)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
