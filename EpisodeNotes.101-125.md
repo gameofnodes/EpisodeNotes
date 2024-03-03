@@ -36,3 +36,9 @@ Coming to [EthDenver](https://www.ethdenver.com/)?  Reach out to [@rhinostake](h
 - [Bufficors Dreamland Opening Party @EthDenver - metis.foundation](https://www.metis.foundation/events/bufficorns-dreamland)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 103: Holding the Ford During ETH Denver
+
+While [schultzie](https://twitter.com/dylanschultzie) and [usurper](https://twitter.com/rhinostake) bounce around EthDenver, [the-frey](https://twitter.com/frey_needlecast) and [nullmames](https://twitter.com/nullMames) welcome [Bendy](https://twitter.com/The_BendyOne) to talk NEWT bags, yawp up [DAODAO](https://daodao.zone/) and discuss the physics of pandas standing on their head to pee.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
