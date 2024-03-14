@@ -43,7 +43,6 @@ While [schultzie](https://twitter.com/dylanschultzie) and [usurper](https://twit
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
 
-
 ## Episode 104: ETH Denver Debrief
 
 [the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) bang on about EthDenver positive vibes, discuss the true meaning of crypto (spoiler, it's about a dog with a hat), try to decipher who, exactly, the Federalist Paper 51 is protecting, and talk Batman.
@@ -61,5 +60,17 @@ DID WE MENTION A DOG WITH A HAT?
 - Movietime:
   - [Do The Right Thing - imdb](https://www.imdb.com/title/tt0097216/?ref_=ext_shr_lnk)
   - [The Batman - imdb](https://www.imdb.com/title/tt1877830/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_The%2520batman)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. DO IT NOW.
+
+## Episode 105: Like a Lion...
+
+[the-frey](https://twitter.com/frey_needlecast), [nullmames](https://twitter.com/nullMames), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) welcome [Mantas](https://twitter.com/mvid) and [@BurntBanksy](https://twitter.com/BurntBanksy) from [Burnt (XION)](https://twitter.com/burnt_xion)! We successfully avoid talking about Xion for 87 min and, well, I don't even know.  [Dogwifhat](https://dogwifcoin.org/) will rule over us all, though.
+
+### Show Links
+
+- [pump.fun](https://www.pump.fun/board)
+- [unicorn.meme](https://unicorn.meme/)
+- [Xion from Burnt](https://xion.burnt.com/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. DO IT NOW.
