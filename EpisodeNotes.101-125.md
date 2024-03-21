@@ -74,3 +74,23 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Xion from Burnt](https://xion.burnt.com/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. DO IT NOW.
+
+## Episode 106: Tax Discussion Guaranteed, Or Your Money Back!
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), and [usurper](https://twitter.com/rhinostake) talk the [Sei](https://twitter.com/seinetwork) upgrade, the growing [Stride](https://twitter.com/stride_zone) juggernaut, and the finer movies about robots f**ckin eachother up
+
+### Show Links
+
+- [Three-peat - wikipedia](https://en.wikipedia.org/wiki/Three-peat)
+- [@cosmos_slashbot - twitter](https://twitter.com/cosmos_slashbot)
+- [The Stride Circlestake - dydx.forum](https://dydx.forum/t/drc-dydx-community-staking-proposal/2444)
+- Movietime
+  - [Spinal Tap II - imdb](https://www.imdb.com/title/tt20222166/)
+  - [Pacific Rim - imdb](https://www.imdb.com/title/tt1663662/)
+  - [Robot Jox -imdb](https://www.imdb.com/title/tt0102800/)
+  - [Flight - imdb](https://www.imdb.com/title/tt1907668/)
+  - [Alien: Romulus - imdb](https://www.imdb.com/title/tt18412256/)
+  - [Battlestar Galactica - imdb](https://www.imdb.com/title/tt0407362/)
+- [Homeworld 3 - steam](https://store.steampowered.com/app/1840080/Homeworld_3/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. DO IT NOW.
