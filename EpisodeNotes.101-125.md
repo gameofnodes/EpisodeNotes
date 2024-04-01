@@ -94,3 +94,15 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Homeworld 3 - steam](https://store.steampowered.com/app/1840080/Homeworld_3/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. DO IT NOW.
+
+
+## Episode 107: It ain't much, but it's degen work
+
+[the-frey](https://twitter.com/frey_needlecast), [schultzie](https://twitter.com/dylanschultzie), and [nullmames](https://twitter.com/nullMames) trash their NVMes in real time, talk SBF jail time, remember January 6, and talk decentralization theater
+
+### Show Links
+
+- [Celsius seeks to claw back $2B in customer withdrawals - cointelegraph](https://cointelegraph.com/news/celsius-seeks-claw-back-2-billion-customer-withdrawals)
+- [Signaling Proposal: Permissioned CosmWasm - mintscan](https://www.mintscan.io/cosmos/proposals/895)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. HALP.
