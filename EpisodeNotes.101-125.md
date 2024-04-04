@@ -106,3 +106,23 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Signaling Proposal: Permissioned CosmWasm - mintscan](https://www.mintscan.io/cosmos/proposals/895)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. HALP.
+
+
+## Episode 108: Life's a Bech(32)
+
+[usurper](https://twitter.com/rhinostake), [schultzie](https://twitter.com/dylanschultzie), and [nullmames](https://twitter.com/nullMames) look at their keyboards to talk [@dYdX](https://twitter.com/dYdX) liquidity pairs, the possibility of [@Uniswap](https://twitter.com/uniswap/) v3 on [@Sei](https://twitter.com/SeiNetwork), and Thelma & Louise'ing servers across the Yabba...
+
+And [Jake Hartnell](https://twitter.com/JakeHartnell) urges you to vote YES on [895](https://www.mintscan.io/cosmos/proposals/895)! Or else.
+
+### Show Links
+
+- [Deploy Uniswap v3 on Sei - uniswap.org](https://gov.uniswap.org/t/deploy-uniswap-v3-on-sei/23471)
+- [DefiLlama.com](https://defillama.com/)
+- [Signaling Proposal: Permissioned CosmWasm - mintscan](https://www.mintscan.io/cosmos/proposals/895)
+- [Origination of $YAWP - twitter](https://twitter.com/YawpToken)
+- [Noble partners with Frax - twitter](https://twitter.com/noble_xyz/status/1775480157886914605)
+- [Operators on Lido - lido.fi](https://operators.lido.fi/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. WE'RE DROWNING HERE.
+
+# sei,dydx,yawp,lido,noble
