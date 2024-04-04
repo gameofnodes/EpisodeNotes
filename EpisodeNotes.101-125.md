@@ -124,5 +124,3 @@ And [Jake Hartnell](https://twitter.com/JakeHartnell) urges you to vote YES on [
 - [Operators on Lido - lido.fi](https://operators.lido.fi/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. WE'RE DROWNING HERE.
-
-# sei,dydx,yawp,lido,noble
