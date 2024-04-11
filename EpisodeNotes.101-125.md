@@ -124,3 +124,23 @@ And [Jake Hartnell](https://twitter.com/JakeHartnell) urges you to vote YES on [
 - [Operators on Lido - lido.fi](https://operators.lido.fi/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. WE'RE DROWNING HERE.
+
+
+## Episode 109: Degen al Gaib
+
+The crew talks [skinny tires at the Arenberg at Paris-Roubaix](https://www.stickybottle.com/latest-news/the-new-chicane-to-slow-riders-into-arenberg-at-paris-roubaix-video/), the [Grayscale Bitcoin exodus](https://decrypt.co/224006/how-long-until-grayscales-etf-runs-out-of-bitcoin), Coinbase winning...[something](https://cointelegraph.com/news/coinbase-cleared-in-lawsuit-over-crypto-transactions), the [SEC going after Uniswap](https://www.coindesk.com/policy/2024/04/10/defi-exchange-uniswap-receives-enforcement-notice-from-the-sec/), and all the [SLOTH](https://www.stargaze.zone/m/stars10n0m58ztlr9wvwkgjuek2m2k0dn5pgrhfw9eahg9p8e5qtvn964suc995j/tokens).
+
+### Show Links
+
+- [Rallycross - wikipedia](https://en.wikipedia.org/wiki/Rallycross)
+- [Berenstain Bears - wikipedia](https://en.wikipedia.org/wiki/Berenstain_Bears)
+- [GTBC - schwab](https://www.schwab.com/research/etfs/quotes/summary/gbtc)
+- [Scaling Yourself • Scott Hanselman - youtube](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Dune 3 Confirmed - independent](https://www.independent.co.uk/arts-entertainment/films/news/dune-3-sequel-denis-villeneuve-when-b2523827.html)
+- Movietime
+  - [Godzilla x Kong: The New Empire - imdb](https://www.imdb.com/title/tt14539740/)
+  - [Past Lives - imdb](https://www.imdb.com/title/tt13238346/)
+  - [Widows - imdb](https://www.imdb.com/title/tt4218572/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. SO HELP ME GOD WE'll DO A GOOD JOB.
+
