@@ -144,3 +144,15 @@ The crew talks [skinny tires at the Arenberg at Paris-Roubaix](https://www.stick
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. SO HELP ME GOD WE'll DO A GOOD JOB.
 
+## Episode 110: Crypto Jox
+
+The crew welcomes [@0xSenCom](https://twitter.com/0xSenCom) from [@WhiteWhaleDefi](https://twitter.com/WhiteWhaleDefi)! Back after the break, we chat about the past & future of White Whale, Stargaze rejecting Stride's request for $1.8M USD, and debating if _every_ movie can sync up to Dark Side of the Moon.
+
+### Show Links
+- [whitewhale.money](https://whitewhale.money/)
+- [Migaloo Ecosystem - migaloo.zone](https://ecosystem.migaloo.zone/)
+- [Sync Floyd - Apple podcasts](https://podcasts.apple.com/nz/podcast/sync-floyd/id1507741908)
+- [Mall Cop II - imdb](https://www.imdb.com/title/tt3450650/?ref_=ext_shr_lnk)
+- [#267. stSTARS / STARS POL for Cosmos DeFi Applications - mintscan](https://www.mintscan.io/stargaze/proposals/267)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. OH GOD, OUR BAGS.
