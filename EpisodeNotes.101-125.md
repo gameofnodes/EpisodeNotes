@@ -156,3 +156,16 @@ The crew welcomes [@0xSenCom](https://twitter.com/0xSenCom) from [@WhiteWhaleDef
 - [#267. stSTARS / STARS POL for Cosmos DeFi Applications - mintscan](https://www.mintscan.io/stargaze/proposals/267)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. OH GOD, OUR BAGS.
+
+
+## Episode 111: Critical Fail
+
+In this deep-dive episode, we talk about the [@Injective](https://twitter.com/injective) Validator Miracle, the provider's struggle in delivering SLAs in fast-moving software (poor us), CZ's coming summer vacation plans and updates in 17/8 from the basement.
+
+### Show Links
+- [Injective snapshots without those pesky errors checks  - highstakes.ch](https://tools.highstakes.ch/snapshots/injective)
+- [Napoleon - imdb](https://www.imdb.com/title/tt13287846)
+- [Peak Hollywood - youtube](https://www.youtube.com/watch?v=z5RPlYWdGZ4)
+- [Watch Arena now! - youtube](https://www.youtube.com/watch?v=5qwvUnFb-Yw)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. YES EVEN WHILE PRICES GO DOWN.
