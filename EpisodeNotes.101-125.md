@@ -174,6 +174,7 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Less than a month to Consensus 2024, and we talk about the meeting of the squad, the importance of networking, and fuck all else. We complain about distributed networks that are centrally controlled, and the pros and cons of large token holders (looking at you, foundations).
 
 ### Show Links
+
 - [LocalMonero to shut down P2P exchange after seven years of operation - theblock](https://www.theblock.co/post/293064/localmonero-closes-down)
 - [SEC’s Gary Gensler gets irked being asked about crypto - cointelegraph](https://cointelegraph.com/news/gary-gensler-sec-gets-asked-too-many-crypto-questions)
 - [FTX crypto fraud victims to get their money back — plus interest - techcrunch](https://techcrunch.com/2024/05/08/ftx-crypto-fraud-victims-to-get-their-money-back-plus-interest/)
