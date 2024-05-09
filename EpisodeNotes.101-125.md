@@ -157,7 +157,6 @@ The crew welcomes [@0xSenCom](https://twitter.com/0xSenCom) from [@WhiteWhaleDef
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. OH GOD, OUR BAGS.
 
-
 ## Episode 111: Critical Fail
 
 In this deep-dive episode, we talk about the [@Injective](https://twitter.com/injective) Validator Miracle, the provider's struggle in delivering SLAs in fast-moving software (poor us), CZ's coming summer vacation plans and updates in 17/8 from the basement.
@@ -169,3 +168,16 @@ In this deep-dive episode, we talk about the [@Injective](https://twitter.com/in
 - [Watch Arena now! - youtube](https://www.youtube.com/watch?v=5qwvUnFb-Yw)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. YES EVEN WHILE PRICES GO DOWN.
+
+## Episode 112: The ... Saga Continues
+
+Less than a month to Consensus 2024, and we talk about the meeting of the squad, the importance of networking, and fuck all else. We complain about distributed networks that are centrally controlled, and the pros and cons of large token holders (looking at you, foundations).
+
+### Show Links
+- [LocalMonero to shut down P2P exchange after seven years of operation - theblock](https://www.theblock.co/post/293064/localmonero-closes-down)
+- [SEC’s Gary Gensler gets irked being asked about crypto - cointelegraph](https://cointelegraph.com/news/gary-gensler-sec-gets-asked-too-many-crypto-questions)
+- [FTX crypto fraud victims to get their money back — plus interest - techcrunch](https://techcrunch.com/2024/05/08/ftx-crypto-fraud-victims-to-get-their-money-back-plus-interest/)
+- [UK to Introduce New Stablecoin and Crypto Laws by July - blockchain.news](https://blockchain.news/news/uk-to-introduce-new-stablecoin-and-crypto-laws-by-july)
+
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.  <<-- MARKETING
