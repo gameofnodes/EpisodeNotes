@@ -182,3 +182,28 @@ Less than a month to Consensus 2024, and we talk about the meeting of the squad,
 
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.  <<-- MARKETING
+
+## Episode 113: Time To Formalize This Cartel
+
+It's cleanup week on GoN as we ban some long-discussed topics, discuss the best & worst Star Wars, the best John Williams score, fatburg(h)s, and meme coins on and off the blockchain.
+
+Headed to Consensus 2024?  Reach out!
+
+### Show Links
+
+- [GameStop’s 'Roaring Kitty' surge doesn’t mean meme stock rally has legs - yahoo](https://finance.yahoo.com/news/gamestops-roaring-kitty-surge-doesnt-mean-meme-stock-rally-has-legs-181347551.html)
+- [Cosmos governance claims 3 lives - mintscan](https://www.mintscan.io/cosmos/proposals)
+- [Ripple and Peersyst to Leverage evmOS for XRPL EVM Sidechain Development](https://alexablockchain.com/ripple-peersyst-evmos-xrpl-evm-sidechain/)
+- [Fatburg - wikipedia](https://en.wikipedia.org/wiki/Fatberg)
+- [Putting Fatberg on Display - museumoflondon](https://www.museumoflondon.org.uk/discover/putting-fatberg-display)
+- Movietime
+  - [Brick - imdb](https://www.imdb.com/title/tt0393109/)
+  - [Star Wars: Episode VIII - The Last Jedi - imdb](https://www.imdb.com/title/tt2527336/)
+  - [Star Wars: Episode IX - The Rise of Skywalker - imdb](https://www.imdb.com/title/tt2527338/)
+  - [Highlander - imdb](https://www.imdb.com/title/tt0091203/)
+  - [The Creator - imdb](https://www.imdb.com/title/tt11858890/)
+  - [Rogue Heroes - imdb](https://www.imdb.com/title/tt10405370/)
+  - [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/)
+  - [The Asteroid Field - John Williams - youtube](https://www.youtube.com/watch?v=XNDEljd1cQI)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.  WE HAVE CHILDREN HERE.
