@@ -207,3 +207,17 @@ Headed to Consensus 2024?  Reach out!
   - [The Asteroid Field - John Williams - youtube](https://www.youtube.com/watch?v=XNDEljd1cQI)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.  WE HAVE CHILDREN HERE.
+
+## Episode 114: Feral in the Crypto World
+
+It's Crusade Week on GoN, where we talk about [@gadikian](https://twitter.com/gadikian) haltin' chains for haltins' sake, soaked UK PMs, the money in AI, the challenges of 13,000 nodes on [@initiaFDN](https://twitter.com/initiaFDN), Consensus 2024 and more.
+
+Headed to Consensus 2024 in Austin?  [Reach out](https://twitter.com/gameofnodes_)!
+
+### Show Links
+- [today I stopped @archwayHQ from making blocks - twitter](https://x.com/gadikian/status/1792926520027042009)
+- [Initia App - initia.xyz](https://app.testnet.initia.xyz/)
+- [Init-AI - initia.xyz](https://init-ai.testnet.initia.xyz/)
+- [Things can only get wetter: Sunak soaked as he announces election to Labour song - standard.co.uk](https://www.standard.co.uk/news/politics/prime-minister-labour-chris-heatonharris-westminster-conservatives-b1159646.html)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. 
