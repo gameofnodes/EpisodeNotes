@@ -221,3 +221,15 @@ Headed to Consensus 2024 in Austin?  [Reach out](https://twitter.com/gameofnodes
 - [Things can only get wetter: Sunak soaked as he announces election to Labour song - standard.co.uk](https://www.standard.co.uk/news/politics/prime-minister-labour-chris-heatonharris-westminster-conservatives-b1159646.html)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. 
+
+## Episode 115: St. Chad's Chosen
+
+Post Consensus 2024, we debrief from Austin, talk about the subduded crowds, suits, and how we're going to AI alllllll of the things.  We catch up on the state of payments, jetlag, and how two wrongs absolutely do not make a right.
+
+### Show Links
+- [BlackRock and Citadel back new Texas national stock exchange - cointelegrah](https://cointelegraph.com/news/blackrock-citadel-back-texas-stock-exchange)
+- [Jacob Gadikian Affidavit - adobe.com](https://acrobat.adobe.com/id/urn:aaid:sc:AP:b3ccd144-612d-4f54-bd0b-b7c850bce9dd)
+- [Celestine Sloth Society - stargaze](https://www.stargaze.zone/m/stars10n0m58ztlr9wvwkgjuek2m2k0dn5pgrhfw9eahg9p8e5qtvn964suc995j/tokens)
+- [Top Watched Sports Events - roadtrips.com](https://www.roadtrips.com/blog/the-most-watched-sporting-events-in-the-world/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. 
