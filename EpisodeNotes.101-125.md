@@ -233,3 +233,17 @@ Post Consensus 2024, we debrief from Austin, talk about the subduded crowds, sui
 - [Top Watched Sports Events - roadtrips.com](https://www.roadtrips.com/blog/the-most-watched-sporting-events-in-the-world/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today. 
+
+## Episode 116: Don't Forget to Like & Sub, Leave a Comment With Yr Seed Phrase
+
+[the-frey](https://twitter.com/frey_needlecast) and [usurper](https://twitter.com/rhinostake) stay violently independent and talk through the new wave of services-based validators, team foundation strategies, the future value from node operators, project selection, and losing money with _style_.
+
+### Show Links
+- [Value Chain vs. Evolution from thefrey - rhinostake](https://snapshots.rhinostake.com/dropshare/ordinaryship-vaporarium-ametropic-airstrips.png)
+- [Donald Trump Says He Wants All Remaining Bitcoin to Be 'Made in USA' - coindesk](https://www.coindesk.com/business/2024/06/12/trump-we-want-all-remaining-bitcoin-to-be-made-in-usa/)
+- [#ConsolidateTheChains - twitter](https://x.com/search?q=%23consolidatethechains&src=typeahead_click)
+- [@TimewaveLabs - twitter](https://x.com/TimewaveLabs)
+- [Timewave - timewave.computer](https://timewave.computer/)
+- [Omniflix on DAODAO - daodao.zone](https://daodao.zone/dao/omniflixhub/proposals/39)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
