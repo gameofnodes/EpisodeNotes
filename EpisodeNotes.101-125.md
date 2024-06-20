@@ -247,3 +247,15 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Omniflix on DAODAO - daodao.zone](https://daodao.zone/dao/omniflixhub/proposals/39)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 117: The Interchain Podcast That Will Outlive The Interchain
+
+It's down only for apples.  We talk conference strategy, new testnets, the high-quality of [Penumbra](https://penumbra.zone/), the low-quality of transaction spamming, [@zmanian](https://twitter.com/zmanian)'s stake module complaints and more.
+
+### Show Links
+- [Zaki's tweets on the staking module - twitter](https://x.com/zmanian/status/1802386503479275698)
+- [SEC drops investigation into Ethereum studio Consensys - blockworks](https://blockworks.co/news/sec-drops-ethereum-consensys-investigation)
+- [Is Certik Extorting Kraken for Millions? Here's What's Going On - decrypt](https://decrypt.co/236152/certik-kraken-extortion-white-hat-hack)
+- [Certik twitter response - twitter](https://x.com/CertiK/status/1803450205389402215)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
