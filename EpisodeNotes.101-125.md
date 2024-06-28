@@ -259,3 +259,12 @@ It's down only for apples.  We talk conference strategy, new testnets, the high-
 - [Certik twitter response - twitter](https://x.com/CertiK/status/1803450205389402215)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 118: When All You've Got Is A S***coin, Everything Looks Like A Rugpull
+
+On this episode of "Blame of Nodes", [@nullmames](https://twitter.com/nullMames) provides proof of life, we discuss home-labbing the Interchain, [@EvmosOrg](https://twitter.com/EvmosOrg) moving to ICS (rebranded to Interchain Hospice), learning new languages, the death of "platform chains", [Tank's](https://twitter.com/cryptotank_) Juno overthrow and more.
+
+### Show Links
+- [End the Juno Charter and Redistribute Juno Tokens - commonwealth.im](https://commonwealth.im/juno/discussion/23688-end-the-juno-charter-and-redistribute-juno-tokens)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
