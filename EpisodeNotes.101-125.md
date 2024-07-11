@@ -268,3 +268,14 @@ On this episode of "Blame of Nodes", [@nullmames](https://twitter.com/nullMames)
 - [End the Juno Charter and Redistribute Juno Tokens - commonwealth.im](https://commonwealth.im/juno/discussion/23688-end-the-juno-charter-and-redistribute-juno-tokens)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 119: Things Can Only Get Better
+
+On this episode of "Game of Homes", [@nullmames](https://twitter.com/nullMames) shows off the new digs, we talk new appliances, sleeping on plants, and just how expensive it _all_ is. Meanwhile, pump.fun has crossed $50M revenue in the creation of 1.18M memecoins. Cool, cool.
+
+### Show Links
+- [Pump.fun’s cumulative revenue crosses $50 million - theblock](https://www.theblock.co/post/302734/pump-funs-cumulative-revenue-crosses-50-million)
+- [Polkadot intern takes over marketing - twitter](https://x.com/Polkadot)
+- [Gaia v18 Software Upgrade - WASM inbound - mintscan](https://www.mintscan.io/cosmos/proposals/937/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
