@@ -279,3 +279,14 @@ On this episode of "Game of Homes", [@nullmames](https://twitter.com/nullMames) 
 - [Gaia v18 Software Upgrade - WASM inbound - mintscan](https://www.mintscan.io/cosmos/proposals/937/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 120: Not Enough Shots On Target
+
+GoN basks in the mini-pump (just checked, it's already over), Juno rewards, Sei EVM gas & large transaction refunds, standing-seam metal roofs (why not?), 24 bay NVMe drive arrays and [@Rarma_'s](https://twitter.com/Rarma_) hangover.
+
+### Show Links
+- [Shoal: How We Reduce Bullshark Latency on The Aptos Blockchain - medium](https://medium.com/aptoslabs/shoal-how-we-reduce-bullshark-latency-on-the-aptos-blockchain-44a600d977a1)
+- [Aptos Redefines Blockchain Efficiency with Shoal++ DAG BFT - medium](https://joule-finance.medium.com/aptos-redefines-blockchain-efficiency-with-shoal-dag-bft-1f6a681d1d19)
+- [Claw Back SAIL DAO Funding - osmosis.zone](https://forum.osmosis.zone/t/claw-back-sail-dao-funding/2938/35)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
