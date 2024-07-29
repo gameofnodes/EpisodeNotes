@@ -290,3 +290,14 @@ GoN basks in the mini-pump (just checked, it's already over), Juno rewards, Sei 
 - [Claw Back SAIL DAO Funding - osmosis.zone](https://forum.osmosis.zone/t/claw-back-sail-dao-funding/2938/35)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 121: Once In A Blue Moon, This Is A Crypto Podcast
+
+GoN has a very special guest, [@codingwithmanny](https://x.com/codingwithmanny?lang=en), Lead DevRel Engineer from [@berachain](https://x.com/BeraChain)! We talk berachain v1, v2, consensus clients, Proof of Liquidity, and so much _taxes_.
+
+### Show Links
+- [BGT Station - berachain.com](https://bartio.station.berachain.com/gauge)
+- [BEX - berachain.com](https://artio.bex.berachain.com/)
+- [The Fat Bera Thesis - berachain.com](https://blog.berachain.com/blog/the-fat-bera-thesis)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
