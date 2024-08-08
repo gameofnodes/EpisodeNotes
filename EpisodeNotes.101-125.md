@@ -301,3 +301,14 @@ GoN has a very special guest, [@codingwithmanny](https://x.com/codingwithmanny?l
 - [The Fat Bera Thesis - berachain.com](https://blog.berachain.com/blog/the-fat-bera-thesis)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 122: Yes, We Do This For Validation
+
+We catch up on European travel, the 2024 Olympics, old theories, new sleep schedules, [@TeamKujira](@https://twitter.com/TeamKujira) investment decisions, oh, and the slow unraveling of crypto until JPMorganChase figures it out.
+
+### Show Links
+- [Kujira Foundation's Tokens Stung by Its Own Leveraged Positions as Bets Backfire - coindesk](https://www.coindesk.com/markets/2024/08/02/kujira-foundations-tokens-stung-by-its-own-leveraged-positions-as-bets-backfire/)
+- [Terra IBC Hooks Exploit - medium](https://medium.com/@Rarma_/terra-ibc-hooks-exploit-21cca87d70a4)
+- [Big Keith's Appraisal - youtube](https://youtu.be/IkYUDQCYGHA?t=73)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
