@@ -312,3 +312,9 @@ We catch up on European travel, the 2024 Olympics, old theories, new sleep sched
 - [Big Keith's Appraisal - youtube](https://youtu.be/IkYUDQCYGHA?t=73)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 123: As Simple As Do Re Mi, A B C
+
+As the Cosmos cools, we instead decide to warm our hearts with the discussion of baby namezzz, sleepless nights, U.S. "train people", and the general annoyances for paying bills.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
