@@ -318,3 +318,16 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 As the Cosmos cools, we instead decide to warm our hearts with the discussion of baby namezzz, sleepless nights, U.S. "train people", and the general annoyances for paying bills.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today.
+
+## Episode 124: One Appchain To Rule Them All
+
+[the-frey](https://twitter.com/frey_needlecast) discovers that [nullmames](https://twitter.com/nullMames) is sometimes correct (although has terrible posture, imo), we talk Tour de France drama, the dream of unrealized gains, ~~diamond~~ paper hands on [@dymension](https://x.com/dymension), and load balancing ourselves to glory.
+
+### Show Links
+- [JP from Thorchain bails out Kujira - twitter](https://x.com/TeamKujira/status/1824109328845914585)
+- [NFT Marketplace Demonstrations ft Andromeda AOS - youtube](https://www.youtube.com/watch?v=VgNS0Uhnvns)
+- [The Jason is just a Meadera - rhinostake](https://snapshots.rhinostake.com/dropshare/digressiveness-underbite-flitch-scabwort.png)
+- [Raygun - olympics.com](https://olympics.com/en/paris-2024/athlete/-raygun_1940107)
+- [Raygun - instagram](https://www.instagram.com/raygun_aus/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
