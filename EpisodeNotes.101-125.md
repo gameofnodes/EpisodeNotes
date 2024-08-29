@@ -331,3 +331,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 - [Raygun - instagram](https://www.instagram.com/raygun_aus/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 125: So, Seen Any Good Movies Lately?
+
+We survive another week to talk about the flow of revenue (real and make-believe) at [@osmosiszone](https://twitter.com/osmosiszone), the unsentimentality of the blockchain, the challenges of "working alone", the reality of costs, and the return of Drill Tweet of the Week.
+
+### Show Links
+- [The Bikeriders - imdb](https://www.imdb.com/title/tt21454134/)
+- [Give us hell, Quimby! - youtube](https://youtu.be/XebtXM-CnXM?t=25)
+- [Osmosis revenue flow from @seppwurscht - twitter](https://x.com/seppwurscht/status/1826605140817715277)
+- [Osmosis revenue flow image - rhinostake](https://snapshots.rhinostake.com/dropshare/sleeplike-dehumanised-peasant-hallucinations.jpg)
+- [Circle CCTP Noble Mint Bug - twitter](https://x.com/asymmetric_re/status/1828417931031499076)
+- [noble-cctp - github](https://github.com/circlefin/noble-cctp)
+- [@DonCryptonium's lessons to Sunny - twitter](https://x.com/DonCryptonium/status/1828642848410927588)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
