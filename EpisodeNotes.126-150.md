@@ -13,3 +13,15 @@ While the babies (and SPF ports) keep us up at night, the GoN crew Demonstrates 
 - [Kujira FIN KUJI/axlUSDC Contract by Rarma - medium](https://medium.com/@Rarma_/kujira-fin-kuji-axlusdc-contract-d7ab430ba232)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today! DO IT.
+
+
+## Episode 127: Is this the End for Zombie S**tchains?
+
+While the GoN family grows by the week, we catch up with friend of the show [@JakeHartnell](https://twitter.com/JakeHartnell)! We talk about Cosmos Past, Cosmos Future, Everything Ethereum, [layer.xyz](https://www.layer.xyz/), "fully decentralized" applications, and being data-hostages in the world of AI.
+
+### Show Links
+
+- [@LayerOnEth - twitter](https://x.com/LayerOnEth)
+- [layer.xyz](https://www.layer.xyz/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
