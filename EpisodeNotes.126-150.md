@@ -25,3 +25,20 @@ While the GoN family grows by the week, we catch up with friend of the show [@Ja
 - [layer.xyz](https://www.layer.xyz/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 128: You Don't Even Run A Real Company
+
+We _finally_ get the band back together just in time to talk DPRK programming moles, the beauty of Samurai Cop (jury is still out tbh), the slow implosion of AADAO, and the underapprecation for blockchain history.
+
+### Show Links
+
+- [How North Korea Infiltrated the Crypto Industry - coindesk]
+(https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry/)
+- [AADAO Oversight Special Report: GM Misconduct/Mismanagement - cosmos.network](https://forum.cosmos.network/t/aadao-oversight-special-report-gm-misconduct-mismanagement/14441)
+- Movietime:
+  - [KAOS - imdb](https://www.imdb.com/title/tt30087808/)
+  - [Bad Monkey - imdb](https://www.imdb.com/title/tt15203646/)
+  - [Samurai Cop - imdb](https://www.imdb.com/title/tt0130236/)
+  - [Nemesis - imdb](https://www.imdb.com/title/tt0107668/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!  MAKE IT HAPPEN.
