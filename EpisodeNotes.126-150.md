@@ -42,3 +42,16 @@ We _finally_ get the band back together just in time to talk DPRK programming mo
   - [Nemesis - imdb](https://www.imdb.com/title/tt0107668/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!  MAKE IT HAPPEN.
+
+## Episode 129: Everyone in the Courtroom Groans
+
+Satoshi is revealed, core switches implode, Dubai cracks down on shilling, [@informalinc](https://twitter.com/informalinc) says so long and thanks for all the fish. All that and the best of 1990's Cinemax this week, on Game of Nodes.
+
+### Show Links
+
+- [Informal moves on - twitter](https://x.com/JTremback/status/1843378324120436993)
+- [cycles.money](https://cycles.money/)
+- [Dubai regulator tightens rules on crypto marketing - cointelegraph](https://cointelegraph.com/news/dubai-regulator-tightens-crypto-marketing-rules)
+- [Samurai Cop - imdb](https://www.imdb.com/title/tt0130236/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
