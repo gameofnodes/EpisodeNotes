@@ -55,3 +55,16 @@ Satoshi is revealed, core switches implode, Dubai cracks down on shilling, [@inf
 - [Samurai Cop - imdb](https://www.imdb.com/title/tt0130236/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 130: Jail Isn't Real, I Assure Myself
+
+Game of Nodes keep the lights on while slamming Eigenlayer and for once are positive about some of the use cases in crypto. Null lets several delivery drivers into his house live on air.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 131: Pager Duty: Wack Ops 6
+
+[usurper](https://twitter.com/rhinostake) and [nullmames](https://twitter.com/nullMames) finally get to nerd out and talk about our mutual love - [@zabbix](https://twitter.com/zabbix) (we won't make this weird).  We catch up on the best of node operations, ransomwared nodes (and shitty providers), risk management and getting shot in the arm.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
