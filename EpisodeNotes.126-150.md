@@ -68,3 +68,17 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 [usurper](https://twitter.com/rhinostake) and [nullmames](https://twitter.com/nullMames) finally get to nerd out and talk about our mutual love - [@zabbix](https://twitter.com/zabbix) (we won't make this weird).  We catch up on the best of node operations, ransomwared nodes (and shitty providers), risk management and getting shot in the arm.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 132: Priorities Schmiorities
+
+[usurper](https://twitter.com/rhinostake) and [schultzie](https://twitter.com/dylanschultzie) get the chance to spend some time with the amazing [@timtimtim_eth](https://twitter.com/timtimtim_eth) from [Story (꧁IP꧂)](https://twitter.com/storyprotocol)!
+
+We get the opportunity to learn more about the challenging space of Intellectual Property, the role of AI in the IP space, the role (and value) of validators in Story, staking IP, community slashing and more.
+
+### Show Links
+
+- [story.foundation](https://www.story.foundation/)
+- [story - linktree](https://linktr.ee/storyprotocol)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
