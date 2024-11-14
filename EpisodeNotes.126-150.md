@@ -82,3 +82,16 @@ We get the opportunity to learn more about the challenging space of Intellectual
 - [story - linktree](https://linktr.ee/storyprotocol)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 133: Let's Get Ready to Realise Some Losses!
+
+We catch up on the state of the U.S. Presidential election results, the election "bump", the chance for regulated stablecoins in the U.K, and how to make $1M USD in 7 days.
+
+### Show Links
+
+- [The Bank of England’s approach to innovation in money and payments - bankofengland.co.uk](https://www.bankofengland.co.uk/paper/2024/dp/the-boes-approach-to-innovation-in-money-and-payments)
+- [Stripe purchase Bridge - pymnts.com](https://www.pymnts.com/blockchain/2024/stripes-billion-dollar-bet-on-stablecoins-tops-this-week-in-web3/
+)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
