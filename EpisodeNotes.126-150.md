@@ -95,3 +95,16 @@ We catch up on the state of the U.S. Presidential election results, the election
 )
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 134: A Weekly Podcast from Shift Managers at McDonalds
+
+We talk $90k Bitcoin, if validators _really_ read upgrade code, recent Cosmostation tooling, the carbon footprint of 5 sheep and just how much $JUNO you need to live forever...
+
+### Show Links
+
+- [Winning, a Song by Charlie Sheen - youtube](https://www.youtube.com/watch?v=9QS0q3mGPGg)
+- [Come Build A New City, To Make Death Optional - vitalia.city](https://vitalia.city/)
+- [Beginners Guide to Vitalia - vitalia.city](https://vitalia.city/learn/a-beginners-guide-to-vitalia)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
