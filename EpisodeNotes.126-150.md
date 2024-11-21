@@ -108,3 +108,9 @@ We talk $90k Bitcoin, if validators _really_ read upgrade code, recent Cosmostat
 - [Beginners Guide to Vitalia - vitalia.city](https://vitalia.city/learn/a-beginners-guide-to-vitalia)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 135: Juno to the Moon(o) (NFA) (DYOR) (YMMV)
+
+We chat up the Juno pump (and dump), PoE, getting de-Banked, Elon's meme coins, and finally decide who is the greatest validator of them all...
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
