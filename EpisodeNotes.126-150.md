@@ -114,3 +114,15 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 We chat up the Juno pump (and dump), PoE, getting de-Banked, Elon's meme coins, and finally decide who is the greatest validator of them all...
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 136: Are We Nearly Back Yet?
+
+While the Yanks cut their birds, we dissect the Tornado Cash crackdown, daydream about a glorious crypto bull run, and share the joys (and pains) of runnin' nodes in 2024
+
+### Show Links
+
+- [FCA Crypto Roadmap - fca.ork.uk](https://www.fca.org.uk/publication/documents/crypto-roadmap.pdf)
+- [Tornado Cash Sanctions Overturned by U.S. Appeals Court; TORN Soars Over 500% - coindesk](https://www.coindesk.com/policy/2024/11/26/tornado-cash-sanctions-overturned-by-u-s-appeals-court)
+
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
