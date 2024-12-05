@@ -126,3 +126,16 @@ While the Yanks cut their birds, we dissect the Tornado Cash crackdown, daydream
 
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 137: Now With Added Guests!
+
+We welcome the amazing [@jasperflux](https://x.com/jasperflux) from [@sedaprotocol](https://x.com/sedaprotocol)! We talk the origins of Seda, programmable oracles, OEV, building a market based on gas, and the hogs and dogs of the outback.
+
+### Show Links
+
+- [seda.xyz](https://www.seda.xyz/)
+- [Building an Oracle Program - seda.xyz](https://docs.seda.xyz/home/for-developers/building-an-oracle-program)
+- [Hunting with a 50 cal BMG - youtube](https://www.youtube.com/watch?v=psz8u6Cx0JA)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
