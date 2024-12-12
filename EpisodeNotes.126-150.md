@@ -139,3 +139,10 @@ We welcome the amazing [@jasperflux](https://x.com/jasperflux) from [@sedaprotoc
 - [Hunting with a 50 cal BMG - youtube](https://www.youtube.com/watch?v=psz8u6Cx0JA)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 138: Got 99 Tokens but a BTC Ain't One
+
+As we wind down 2024, the GoN crew talks bespoke AS (Autonomous System) monikers, shared storage, the flood of new testnets, the networks that are "almost" live, and if Santa will fill our stockings with shitcoins.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
