@@ -146,3 +146,16 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 As we wind down 2024, the GoN crew talks bespoke AS (Autonomous System) monikers, shared storage, the flood of new testnets, the networks that are "almost" live, and if Santa will fill our stockings with shitcoins.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 139: Christmas With A Vengeance
+
+We close out 2024 talking through the [Interchain Foundation's](https://x.com/interchain_io) acquisition of [Skip](https://x.com/SkipProtocol) and what that means for the ICF, $ATOM holders, and the larger Cosmos ecosystem.
+
+From everyone at Game of Nodes, have a restful and happy Holiday Season and we'll see you in 2025 for the GoN end-of-year awards!
+
+### Show Links
+
+- [In latest shakeup, Interchain Foundation acquires Skip to refocus Cosmos Hub at ecosystem's core - theblock](https://www.theblock.co/post/330189/in-latest-shakeup-interchain-foundation-acquires-skip-to-refocus-cosmos-hub-at-ecosystems-core)
+- [Goldfinch - goldfinch.finance](https://goldfinch.finance/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
