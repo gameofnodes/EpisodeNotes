@@ -159,3 +159,24 @@ From everyone at Game of Nodes, have a restful and happy Holiday Season and we'l
 - [Goldfinch - goldfinch.finance](https://goldfinch.finance/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 140: GoN Awards Show 2024
+
+Surviving bear markets and questionable life choices since 2022, this week's episode dives into validation woes, the magic of compound interest, and the unexpected joys of a hot bath and a good book.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 141: Skip is Dead, Long Live Skip
+
+We welcome back the incredible [@magmar](https://x.com/0xMagmar) from ~~Skip Protocol~~ Interchain Labs! We talk about the Skip acquisition, the future (and role) of the Cosmos Hub, IBC, ICS, the first 60 days, and just what in the _hell_ they were thinking.
+
+### Show Links
+
+- [Cosmos is expanding: Skip joins the Interchain Foundation - medium](https://medium.com/the-interchain-foundation/cosmos-is-expanding-skip-joins-the-interchain-foundation-cfd346551dda)
+- [What changes for Cosmos after Skip acquisition? - blockworks](https://blockworks.co/news/cosmos-ecosystem-changes-after-skip-acquisition)
+- [Market-Protocol Fit - otherinter.net](https://otherinter.net/research/market-protocol-fit/)
+- [Trump pardons Silk Road founder Ross Ulbricht for online drug scheme - reuters](https://www.reuters.com/world/us/trump-pardons-silk-road-founder-ulbricht-online-drug-scheme-2025-01-22/)
+
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
