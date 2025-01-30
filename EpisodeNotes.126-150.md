@@ -180,3 +180,17 @@ We welcome back the incredible [@magmar](https://x.com/0xMagmar) from ~~Skip Pro
 
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 142: (Ir)Relevant As Ever
+
+The crew takes a wild ride through the chaos of validator infrastructure, sparring over the best (and worst) ZFS strategies—because nothing screams "decentralization" like heated debates on server costs. Plus, a shocking revelation: just how deep does the Hetzner hoarding rabbit hole go?
+
+### Show Links
+
+- [Thorchain Faces Insolvency, Halts Redemptions - bitcoin.com](https://news.bitcoin.com/thorchain-faces-insolvency-halts-redemptions/)
+- [Armor - imdb](https://www.imdb.com/title/tt29252358/)
+- [Conclave - imdb](https://www.imdb.com/title/tt20215234/)
+- [Landman - imdb](https://www.imdb.com/title/tt14186672/)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
