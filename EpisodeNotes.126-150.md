@@ -194,3 +194,10 @@ The crew takes a wild ride through the chaos of validator infrastructure, sparri
 - [Landman - imdb](https://www.imdb.com/title/tt14186672/)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 143: Eric from Zellic
+
+Join the crew as we unpack blockchain's wild side with [Eric](https://x.com/LinkedEric) from [Zellic](https://x.com/zellic_io), spilling insider secrets on security auditing and validator ops—tracing crypto's shift from "toys to tools". From Rhino logos to EthDenver conference vibes, this fortnightly episode delivers a fun, expert dive into crypto chaos you won't want to miss!
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
