@@ -201,3 +201,10 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Join the crew as we unpack blockchain's wild side with [Eric](https://x.com/LinkedEric) from [Zellic](https://x.com/zellic_io), spilling insider secrets on security auditing and validator ops—tracing crypto's shift from "toys to tools". From Rhino logos to EthDenver conference vibes, this fortnightly episode delivers a fun, expert dive into crypto chaos you won't want to miss!
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 144: PFC LFG
+
+Independent validator [PFC](https://x.com/PFC_Validator) shares his deep dive into Kubernetes infrastructure and blockchain network dynamics, offering insights into running validators across multiple chains. From discussing the intricacies of [THORChain](https://x.com/THORChain)'s unique consensus model to exploring the challenges of managing distributed networks in k8s, we eventually ignore all that to talk about Australia.
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
