@@ -208,3 +208,18 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 Independent validator [PFC](https://x.com/PFC_Validator) shares his deep dive into Kubernetes infrastructure and blockchain network dynamics, offering insights into running validators across multiple chains. From discussing the intricacies of [THORChain](https://x.com/THORChain)'s unique consensus model to exploring the challenges of managing distributed networks in k8s, we eventually ignore all that to talk about Australia.
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+
+## Episode 145: No Nullo
+
+The crew navigates the ridiculous realities of validator life—from backordered Chinese servers and surprise tariffs to the art of running mainnet from your media center. Meanwhile, they spiral into AI-on-blockchain hypotheticals, failed token economics, and a crypto spin on the Christian Bale meltdown.
+
+### Show Links
+
+- [Trump names cryptocurrencies in strategic reserve - reuters](https://www.reuters.com/world/us/trump-says-cryptocurrency-strategic-reserve-includes-xrp-sol-ada-2025-03-02/)
+- [Fact Sheet: President Donald J. Trump Establishes the Strategic Bitcoin Reserve and U.S. Digital Asset Stockpile - whitehouse.gov](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/)
+- [DOJ ends crypto enforcement team, shifts focus to terrorism and fraud - cnbc](https://www.cnbc.com/2025/04/08/doj-ends-crypto-enforcement-team-shifts-focus-to-terrorism-and-fraud.html)
+- [De-dollarization: Is the US dollar losing its dominance? - jpmorgan](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization)
+- [Christian Bale Loses It - youtube](https://www.youtube.com/watch?v=0auwpvAU2YA)
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
