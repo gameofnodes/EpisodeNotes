@@ -223,3 +223,10 @@ The crew navigates the ridiculous realities of validator life—from backordered
 - [Christian Bale Loses It - youtube](https://www.youtube.com/watch?v=0auwpvAU2YA)
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
+## Episode 146: Whispernode
+
+[Brendan from WhisperNode](https://x.com/WhisperNode) spills the tea on escaping validator life for Flipside's data world, plus Schultz flexes his $12K home data center complete with backup power that could survive the apocalypse. The crew dives deep into why CosmWasm is getting ghosted by new projects, whether AI agents need blockchain payment rails, and why Ethereum still runs the show despite being "boomer shit".
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
+
