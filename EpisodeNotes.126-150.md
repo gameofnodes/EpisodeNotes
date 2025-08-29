@@ -230,3 +230,10 @@ Please support Game of Nodes and other great independent validators in the Cosmo
 
 Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
 
+## Episode 147: We Are So Back, Baby
+
+After a summer hiatus, the  crew reunites to discuss what they've been up to while crypto conferences turned into sales pitches and bare metal providers started sliding into foundation Slack channels. The episode covers Schultzie's garage-relocated 500-watt home lab setup, the team's ongoing ISO and SOC 2 certification processes, and how Claude AI has revolutionized filling out those endless security questionnaires.
+
+Between stories of Barcelona pickpocketing (the idiot tax), London's best late-night bagels, and watching F1 movies with unimpressed children, the hosts tackle bigger questions about the future of permissionless systems. Are we heading toward a world of Visa-run stablecoins and permission-based everything? Can crypto maintain its cypherpunk ideals while institutions copy the tech and strip out the interesting parts?
+
+Please support Game of Nodes and other great independent validators in the Cosmos. Make [Needlecast](https://needlecast.envoys.io), [Kingnodes](https://www.kingnodes.com), [RHINO](https://rhinostake.com), and [Lavender.Five](https://www.lavenderfive.com) a part of your delegation strategy today!
